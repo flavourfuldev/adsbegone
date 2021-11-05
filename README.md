@@ -1,6 +1,5 @@
 This is a personally maintained Pihole-compatible blocklist.  
-It consists of domains that I have come across that are shady.  
-The aim is to reduce tracking, ads, and general shitbaggery.  
+The aim is to maintain privacy, reduce tracking/shitbaggery.  
 Domains that make it onto this list will not be removed.  
 
 Installation Instructions:  
