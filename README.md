@@ -1,6 +1,9 @@
 This is a personally maintained Pihole-compatible blocklist.  
+This list is not meant to be an be-all-end-all blocklist.  
+It is meant to compliment browser extensions (Ublock Origin).  
 The aim is to maintain privacy, reduce tracking/shitbaggery.  
 Domains that make it onto this list will not be removed.  
+
 
 Installation Instructions:  
 1. Go to your Pihole admin page  
