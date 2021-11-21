@@ -1114,3 +1114,11 @@ script.anura.io
 stun.anura.io
 dropped-click.com
 ezanga.com
+cdn.exoticads.com
+cbjpeg.stream.highwebmedia.com
+static-pub.highwebmedia.com
+static-assets.highwebmedia.com
+realtime.pa.highwebmedia.com
+vids.viaplays.com
+nr-data.net
+mmcdn.com
