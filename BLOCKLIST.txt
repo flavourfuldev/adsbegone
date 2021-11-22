@@ -1093,6 +1093,7 @@ dianomi.com
 newsbreak.com
 omtrdc.net
 cmcd1.com
+cdn.pdst.fm
 pdst.fm
 getblueshift.com
 qualtrics.com
@@ -1122,3 +1123,12 @@ realtime.pa.highwebmedia.com
 vids.viaplays.com
 nr-data.net
 mmcdn.com
+2det.net
+beautyguides.net
+ppnllc.com
+quantummetric.com
+chtbl.com
+agacelebir.com
+cdn.runative-syndicate.com
+agacelebir.com
+trafficstars.com
