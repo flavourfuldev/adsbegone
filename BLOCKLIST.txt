@@ -549,6 +549,7 @@ howtubray.com
 hpyjmp.com
 hpyrdr.com
 hq3x.com
+https://app-measurement.com/sdk-exp
 huaweisafedns.com
 hubspot.net
 hubtraffic.com
@@ -1169,6 +1170,7 @@ trckingbyte.com
 trckpath.com
 trendgodforsaken.com
 tribuntekno.com
+trk.klclick3.com
 trk10.com
 trk2vpn.xyz
 trkbc.com
