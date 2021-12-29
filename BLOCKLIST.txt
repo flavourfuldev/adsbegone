@@ -2,6 +2,7 @@
 # fpbns.net
 0i0i0i0.com
 1000traffics.com
+12all.tv
 1fr33stlye31.com
 1hjashjfsf1.monster
 1redirb.com
@@ -22,6 +23,7 @@
 6sc.co
 6sense.com
 a.bestcontentfood.top
+a.bestcontenttool.top
 a.exosrv.com
 a.optimizesrv.com
 aaqiycetqwx.com
@@ -96,6 +98,7 @@ anyfule.com
 ap3prod.com
 aphycolourses.info
 api-lr.adbecrsl.com
+api.ashleymadison.com
 api.promotions.skype.com
 api16-access-sg.pangle.io
 apientry.com
@@ -113,6 +116,7 @@ arbourrenewal.com
 ardownload.adobe.com
 armmf.adobe.com
 arthur.bond
+ashleymadison.com
 assertcom.de
 assoc-amazon.com
 associates-amazon.com
@@ -158,8 +162,10 @@ bestappland.me
 bestcontentfee.top
 bestcontentfood.top
 bestcontentsystem.top
+bestcontenttool.top
 bestpeachus.com
 betgorebysson.club
+bf98738ejy.bf.dynatrace.com
 bhpho.to
 bid-engine.com
 bidder-us-east-1.prod.justpremium.com
@@ -226,6 +232,7 @@ cbox.ws
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
 cdn.exoticads.com
+cdn.fluidplayer.com
 cdn.getblueshift.com
 cdn.id5-sync.com
 cdn.otnolatrnup.com
@@ -287,6 +294,7 @@ coin.amazonpay.com
 collector-hpn.ghostery.net
 com-com-mobi.com
 comasoiling.casa
+comet.sc-apps.com
 cometmaster.com
 commercialvalue.org
 conditionwildest.com
@@ -312,6 +320,7 @@ crjpingate.com
 crlog-crcn.adobe.com
 croakflabbyconsume.com
 crrepo.com
+crtrcr.com
 crueltyrefundye.com
 cryptoforhealth.com
 cryptowebnow.info
@@ -329,6 +338,7 @@ datadoghq-browser-agent.com
 dating89.com
 daxab.com
 dcop4khjxsmg.com
+dditscdn.com
 ddlesswale.co
 declivecists.casa
 deepcolander.com
@@ -367,11 +377,14 @@ downloadtube.net
 dozubatan.com
 dropped-click.com
 dryone-incess.com
+dss-hls-109-71-164-51.dditscdn.com
+dss-live-109-71-164-61.dditscdn.com
 dualstack.pinterest.map.fastly.net
 dualstack.tls13.taboola.map.fastly.net
 dufibepe.com
 dump.world
 dyn.eplay.com
+dynatrace.com
 dzhjmp.com
 dzienkudrow.com
 e-fallback.pa.highwebmedia.com
@@ -466,6 +479,8 @@ freshmarketer.com
 freychang.fun
 fttwin.icu
 fuckhero.nl
+fuckinmycity.com
+fuckinourcity.com
 fukpgbwf.com
 fullstory.com
 fusoidactuate.com
@@ -506,10 +521,12 @@ gloos-ves.com
 gloxeept.com
 go.hpyjmp.com
 go.xxxijmp.com
+go.youcontrolher.com
 go.zybrdr.com
 go2affise.com
 go2cloud.org
 goleft.media
+goop.com
 gosbuy.com
 gosearches.net
 graph.instagram.com
@@ -627,6 +644,7 @@ jolecyclist.com
 jomazisuj.xyz
 jomtingi.net
 joovf.xyz
+joylookr.com
 juicyads.com
 jumplersend.com
 junmediadirect.com
@@ -644,6 +662,7 @@ kolkwi4tzicraamabilis.com
 kthwaalso.xyz
 ktkjmp.com
 kts.visitstats.com
+lander-cdn.ashleymadison.com
 laudypauty.com
 leadid.com
 leaked-video.live
@@ -679,6 +698,7 @@ lowdodrioon.com
 ltwebstatic.com
 luckyorange.com
 luckyorange.net
+m.chaturbate.com
 m.cherry.tv
 madsips.com
 madted.in
@@ -736,6 +756,7 @@ mwgol.com
 my-wan.de
 mycdn.me
 mylife.com
+myownwater.com
 mysearches.net
 n2ke4w655s.com
 na-ice.360yield.com
@@ -768,6 +789,7 @@ nonotro.name
 notifypicture.info
 notorietycheerypositively.com
 nr-data.net
+nsfwadds.com
 ntstrk.com
 nydc1.outbrain.org
 oawhaursaith.com
@@ -775,6 +797,7 @@ ob.cheqzone.com
 obokk.xyz
 obs.cheqzone.com
 occultcreed.com
+occustantwidity.com
 occxfzqyhhq.com
 ocsp.sectigo.com
 octaplajaggar.casa
@@ -924,6 +947,7 @@ quantummetric.com
 queentits.com
 quickvasurvey.com
 qwerty24.net
+r.crtrcr.com
 r.pubdream.com
 radarconsultation.com
 radarsubmissions.apple.com
@@ -975,6 +999,7 @@ rsafrwd.com
 rsms.me
 rtbbnr.com
 rtxt.net
+rubylife.go2cloud.org
 ruinedhang.com
 runative-syndicate.com
 rushinfo.adobe.com
@@ -1016,6 +1041,7 @@ seniorlivingusaresidence.com
 sensationaleducate.com
 sentry-cdn.com
 sentry.io
+sentry.stripchat.com
 service.idsync.analytics.yahoo.com
 serving-sys.com
 sexcamchats.com
@@ -1071,6 +1097,7 @@ stagepopkek.com
 standartrecognition.com
 stashedaccel.cam
 static-assets.highwebmedia.com
+static-cdn.ashleymadison.com
 static-cdn.hotjar.com
 static-doubleclick-net.l.google.com
 static-pub.highwebmedia.com
@@ -1123,12 +1150,14 @@ teknosicurezza.it
 temporarilybrancheshideous.com
 terlaby.com
 tfosrv.com
+theaffman.com
 thebestgame2020.com
 thehomeandgardenguru.com
 thejobandl.biz
 theonlygames.com
 theplandoctor.com
 theplatform.com
+theporndude.com
 theporndude.tv
 thepubedo.com
 thesaferplayerfinal.info
@@ -1142,6 +1171,7 @@ tillatingmer.fun
 tingeffukec.one
 tinypass.com
 tiverackingt.fun
+tls12.newrelic.com.cdn.cloudflare.net
 tls13.taboola.map.fastly.net
 tmrjmp.com
 tmystemsi.club
@@ -1311,6 +1341,7 @@ ws.onlyfans.com
 wss.redditmedia.com
 wvhba6470p.com
 www-googletagmanager.l.google.com
+www.ashleymadison.com
 www.cherry.tv
 www.displayvertising.com
 www.jdq0lb8qy4.com
@@ -1342,6 +1373,7 @@ yext.com
 yfetyg.com
 yieldbird.com
 yomeno.xyz
+youcontrolher.com
 your-notice.com
 yourbestvideoplayers.work
 yourcentralsoftwarevideos.info
@@ -1365,4 +1397,3 @@ zunsoach.com
 zuphaims.com
 zvetokr2hr8pcng09.com
 zybrdr.com
-12all.tv
