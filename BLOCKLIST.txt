@@ -26,6 +26,7 @@ a.bestcontentfood.top
 a.bestcontenttool.top
 a.exosrv.com
 a.optimizesrv.com
+a.publir.com
 aaqiycetqwx.com
 aax-us-iad.amazon.com
 aaxads.com
@@ -49,6 +50,8 @@ adexc.me
 adgully.com
 adiktive.b-cdn.net
 adktrack.com
+admatic.com
+admatic.com.tr
 admedit.net
 admjmp.com
 adobe.io
@@ -62,6 +65,8 @@ adskeeper.com
 adspyglass.com
 adsrvr.org
 adsymptotic.com
+adtarget.com
+adtarget.com.tr
 adtilt.com
 adtival.network
 adtrue24.com
@@ -78,6 +83,7 @@ afvdeukmy.one
 agacelebir.com
 aj1987.online
 ak-is2.net
+akaquill.net
 akn.analytics.autodesk.com
 alb.reddit.com
 allhottoss.cam
@@ -89,6 +95,7 @@ americanmajority.org
 amzn.com
 amzn.to
 analytics.pinterest.com
+analytics.publir.com
 analytics.yahoo.com
 ancheonyo.fun
 ancientsend.com
@@ -99,6 +106,7 @@ ap3prod.com
 aphycolourses.info
 api-lr.adbecrsl.com
 api.ashleymadison.com
+api.intentiq.com
 api.promotions.skype.com
 api16-access-sg.pangle.io
 apientry.com
@@ -229,12 +237,14 @@ catchurluck.net
 catsnbootsncats2020.com
 cbjpeg.stream.highwebmedia.com
 cbox.ws
+cdn.admatic.com.tr
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
 cdn.exoticads.com
 cdn.fluidplayer.com
 cdn.getblueshift.com
 cdn.id5-sync.com
+cdn.optkit.com
 cdn.otnolatrnup.com
 cdn.pdst.fm
 cdn.run-syndicate.com.fpbns.net
@@ -325,6 +335,7 @@ crueltyrefundye.com
 cryptoforhealth.com
 cryptowebnow.info
 csnstores.com
+csync.loopme.me
 cteriodrela.biz
 cults3d.com
 cuntwars.com
@@ -358,6 +369,7 @@ dirpy.com
 discounthero.org
 dislicly-lestered.com
 dismantlepenantiterrorist.com
+dispbaktun.com
 displayvertising.com
 disqus.com
 disquscdn.com
@@ -495,6 +507,7 @@ gejute.com
 gemini.yahoo.com
 geni.us
 geo.search-gtm.spotxchange.com.akadns.net
+geodns.me
 geruksom.net
 get-express-vpn.com
 get-express-vpn.online
@@ -595,6 +608,7 @@ imasdk.googleapis.com
 img-eu.stripst.com
 img-us.stripst.com
 img.eplay.com
+img.lz-pub-ads.com
 img.stripcdn.com
 img.stripst.com
 img.strpst.com
@@ -618,6 +632,7 @@ inspectorstrongerpill.com
 install-network.com
 instantcheckmate.com
 intellipopup.com
+intentiq.com
 interst12.com
 interstitial-07.com
 intimateshark.com
@@ -645,6 +660,7 @@ jomazisuj.xyz
 jomtingi.net
 joovf.xyz
 joylookr.com
+js.stripe.com
 juicyads.com
 jumplersend.com
 junmediadirect.com
@@ -676,6 +692,7 @@ limbloyal.com
 linkly.io
 littlecdn.com
 live.demand.supply
+live.primis.tech
 livechatinc.com
 livesexee.com
 ln.gamesrevenue.com
@@ -690,6 +707,7 @@ lockingadmitted.com
 logging.dhg.myharmony.com
 lologhfd.com
 looksthrilled.com
+loopme.me
 lotsofclicksglobe.com
 love.linkly.io
 lovehomeporn.com
@@ -698,8 +716,11 @@ lowdodrioon.com
 ltwebstatic.com
 luckyorange.com
 luckyorange.net
+lz-pub-ads.com
 m.chaturbate.com
 m.cherry.tv
+m.stripe.com
+m.stripe.network
 madsips.com
 madted.in
 maggieeatstheangel.com
@@ -721,6 +742,7 @@ mediapicker.com
 megahookups.net
 melanthios-ana.com
 melongnaw.com
+mersionbronze.cam
 messenger-notify.digital
 metrics.icloud.com
 mgnetu.com
@@ -738,6 +760,7 @@ mobi-com-com.com
 mobiletelemetry.ebay.com
 moderndaymoms.com
 mogrephudo.pro
+monasawaw.com
 mondiad.net
 monetizer101.com
 moneyfinancegold.com
@@ -886,6 +909,7 @@ pntra.com
 pntrs.com
 podregarddomicile.com
 polyfill.io
+poodledopas.cam
 popnc.com
 pornhits.com
 pornhubly.com
@@ -933,6 +957,7 @@ ptauxofi.net
 ptgncdn.com
 ptouber.com
 pubdream.com
+publir.com
 pubmatic.com
 push.soft-com.biz
 puwpush.com
@@ -941,6 +966,7 @@ px.powerlinks.com
 pxchk.net
 pxl.tsyndicate.com
 pybushobi.com
+q1.us-est.gh-g.v1.akaquill.net
 qggypucwewn.com
 qualtrics.com
 quantummetric.com
@@ -1007,6 +1033,7 @@ ruthowhagi.com
 rvrpushserv.com
 s-onetag.com
 s.autopilotapp.com
+s.console.adtarget.com.tr
 s.ohidxf.com
 s.zlink9.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
@@ -1114,6 +1141,9 @@ strapi.reddit.com
 streamcompletelystrongpro.best
 stripcdn.com
 stripchat.com
+stripe.com
+stripe.network
+stripecdn.map.fastly.net
 stripst.com
 strpst.com
 stun.anura.io
@@ -1125,7 +1155,9 @@ surveyjunkie.com
 suspicionsvaluable.com
 sweetwater.com
 sync-jp.im-apps.net
+sync-unosync-com.geodns.me
 sync.hgrtb.com
+sync.intentiq.com
 syndication.realsrv.com
 system-guard.net
 taboola.blog
@@ -1285,6 +1317,7 @@ vidcdn.info
 vidcrunch.com
 video-iad3-2.xx.fbcdn.net
 video.ktkjmp.com
+video.primis.tech
 video.xxxjmp.com
 video.your-notice.com
 videoplayerhub.com
