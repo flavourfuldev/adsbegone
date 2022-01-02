@@ -81,6 +81,7 @@ afflat3d1.com
 afgtrwd1.com
 afvdeukmy.one
 agacelebir.com
+aiv-cdn.net
 aj1987.online
 ak-is2.net
 akaquill.net
@@ -108,6 +109,7 @@ api-lr.adbecrsl.com
 api.ashleymadison.com
 api.intentiq.com
 api.promotions.skype.com
+api.vuukle.com
 api16-access-sg.pangle.io
 apientry.com
 app-analytics-v2.snapchat.com
@@ -127,6 +129,7 @@ arthur.bond
 ashleymadison.com
 assertcom.de
 assoc-amazon.com
+assoc-na.associates-amazon.com
 associates-amazon.com
 astra9dlya10.com
 atatus.com
@@ -141,10 +144,12 @@ awcug.xyz
 awecrptjmp.com
 awmdelivery.com
 ay.delivery
+b-us6.stripcdn.com
 b.bestcontentindustry.top
 b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
 b1sync.zemanta.com
+b2c-contenthub.com
 balsascotleak.com
 bam-cell.nr-data.net
 bananaian.com
@@ -247,12 +252,15 @@ cdn.id5-sync.com
 cdn.optkit.com
 cdn.otnolatrnup.com
 cdn.pdst.fm
+cdn.permutive.app
 cdn.run-syndicate.com.fpbns.net
 cdn.runative-syndicate.com
 cdn.runative-syndicate.com.fpbns.net
 cdn.stripst.com
+cdn.subscribers.com
 cdn.tax
 cdn.tsyndicate.com.fpbns.net
+cdn.vuukle.com
 cdn3.bestcontentindustry.top
 cdn3x.com
 cdnbmb.com
@@ -622,6 +630,7 @@ impressionmonster.com
 imrworldwide.com
 in-page-push.com
 indicatorlovelyavail.com
+infectedably.com
 infestpaddle.com
 infolinks.com
 infopicked.com
@@ -638,12 +647,14 @@ interstitial-07.com
 intimateshark.com
 intnotif.club
 ios-protection.com
+ip-api.com
 ipify.org
 iponweb.net
 ippsrvng.xyz
 irreparablebench.com
 ispot.tv
 ispsvc.net
+itchytidying.com
 itiger.online
 itineraryupper.com
 its-up.com
@@ -934,6 +945,7 @@ primis.tech
 printfinger.tech
 privacytrck.com
 privatejetsflightus.com
+pro.ip-api.com
 producingdestroyer.com
 profitabledisplaycontent.com
 profitabletrustednetwork.com
@@ -958,6 +970,7 @@ ptgncdn.com
 ptouber.com
 pubdream.com
 publir.com
+publish.vuukle.com
 pubmatic.com
 push.soft-com.biz
 puwpush.com
@@ -1045,6 +1058,7 @@ sasinsetuid.com
 sb-inv1.com
 Sb4you1.com
 sc-apps.com
+sc.tynt.com
 scalppsoriasisadvice.info
 schemaapp.com
 scillathemons.com
@@ -1149,6 +1163,7 @@ strpst.com
 stun.anura.io
 submarineundergonedebark.com
 subminema-potiongly.com
+subscribers.com
 suited45trk.com
 sumflux.com
 surveyjunkie.com
@@ -1181,6 +1196,7 @@ teerseems-fories.com
 teknosicurezza.it
 temporarilybrancheshideous.com
 terlaby.com
+ters.us-east-1.aiv-delivery.net
 tfosrv.com
 theaffman.com
 thebestgame2020.com
@@ -1257,6 +1273,7 @@ twinrdsrv.com
 txxx.ahcdn.com
 txxx.com
 txxx.tube
+tynt.com
 ub-analytics.com
 ubembed.com
 ueuodgnrhb.com
@@ -1339,6 +1356,7 @@ vrbo.com
 vs3.com
 vstzen.com
 vubihasdtbadiq.com
+vuukle.com
 vzzylo.com
 wankgalore.com
 washedinmate.com
@@ -1374,6 +1392,7 @@ ws.onlyfans.com
 wss.redditmedia.com
 wvhba6470p.com
 www-googletagmanager.l.google.com
+www.adtilt.com
 www.ashleymadison.com
 www.cherry.tv
 www.displayvertising.com
@@ -1416,6 +1435,7 @@ ytube2dl.com
 ytvideos.club
 yummy.maggieeatstheangel.com
 yvukxuqh.com
+z-na.associates-amazon.com
 zantbowsing.cam
 zap.buzz
 zemanta.com
