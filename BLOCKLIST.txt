@@ -1,5 +1,6 @@
 # cedexis.net
 # fpbns.net
+# scontent-iad3-2.cdninstagram.com
 0.gravatar.com
 0i0i0i0.com
 1.gravatar.com
@@ -1095,7 +1096,6 @@ schemaapp.com
 scillathemons.com
 scmplayer.co
 scmplayer.net
-scontent-iad3-2.cdninstagram.com
 scontent-iad3-2.xx.fbcdn.net
 scouintel.net
 scoutdealingdrift.com
