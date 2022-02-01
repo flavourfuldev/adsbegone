@@ -139,6 +139,7 @@ assoc-na.associates-amazon.com
 associates-amazon.com
 astra9dlya10.com
 atatus.com
+ationwindon.com
 atsptp.com
 au79nt5wic4x.com
 audacitydipping.com
@@ -391,6 +392,7 @@ dirpy.com
 discounthero.org
 dislicly-lestered.com
 dismantlepenantiterrorist.com
+disords.gift
 dispbaktun.com
 displayvertising.com
 disqus.com
@@ -491,6 +493,7 @@ fftf.xyz
 fiefionfortes.casa
 fifozigry.com
 fikri-ayo.com
+firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firstchoicereviews.com
 fixadvancedintenselythefile.vip
@@ -705,6 +708,7 @@ justpremium.com
 kazfv.com
 keystone.mwbsys.com
 kfuiprtjuqntp.com
+kinetiksoft.com
 kiolim.com
 kitchenremodelingsservicesusweb.com
 klarnaservices.com
@@ -1045,6 +1049,7 @@ regionseffective.com
 regulationprivilegescan.top
 rejcinews.pro
 reliablyuncomfortable.com
+reports.crashlytics.com
 reptilefightearn.com
 residebroadly.com
 restorationofamerica.com
@@ -1275,6 +1280,7 @@ tovespiquener.com
 tpmr.com
 trace.svc.ui.com
 tracepath.cc
+track.kinetiksoft.com
 trackerrysrv.com
 trackjs.com
 trackr.com
@@ -1393,6 +1399,7 @@ vlitag.com
 voi.id
 voltarengel.com
 vooshagy.net
+voyeur-house.tv
 vrbo.com
 vs3.com
 vstzen.com
@@ -1440,6 +1447,7 @@ www.adtilt.com
 www.ashleymadison.com
 www.cherry.tv
 www.displayvertising.com
+www.ebayadservices.com
 www.gravatar.com
 www.jdq0lb8qy4.com
 www.nebwvbpelobi.com
@@ -1485,6 +1493,7 @@ z-na.associates-amazon.com
 zachrygroup.com
 zantbowsing.cam
 zap.buzz
+zazufi.com
 zemanta.com
 zeronaught.com
 zikroarg.com
@@ -1499,4 +1508,3 @@ zunsoach.com
 zuphaims.com
 zvetokr2hr8pcng09.com
 zybrdr.com
-disords.gift
