@@ -152,6 +152,7 @@ awecrptjmp.com
 awmdelivery.com
 ay.delivery
 b-hls-10.stripst.com
+b-hls-19.stripst.com
 b-hls-23.stripst.com
 b-us6.stripcdn.com
 b.bestcontentindustry.top
@@ -248,6 +249,7 @@ capture-api.ap3prod.com
 caradstag.casa
 cardiwersg.com
 cash.admobe.com
+cashewsforlife208.com
 cashimmer.com
 cashmirian.com
 catbox.moe
@@ -257,6 +259,8 @@ cbjpeg.stream.highwebmedia.com
 cbox.ws
 cdn.admatic.com.tr
 cdn.barscreative1.com
+cdn.bncloudfl.com
+cdn.cloudfrale.com
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
 cdn.exoticads.com
@@ -594,7 +598,6 @@ grovebrainwashtroubles.com
 growsumo.com
 grsm.io
 gscontxt.net
-gstaticadssl.l.google.com
 h-signifyd.online-metrix.net
 h1.fastlyanalytics.map.fastly.net
 hairoak.com
@@ -782,6 +785,7 @@ lovehomeporn.com
 loveme.uno
 loversagobearable.com
 lowdodrioon.com
+lsitenonrepeat.com
 ltwebstatic.com
 luckyorange.com
 luckyorange.net
@@ -1280,6 +1284,7 @@ tfosrv.com
 tgp1.brazzersnetwork.com
 theaffman.com
 thebestgame2020.com
+thegospelcoalition.org
 thehomeandgardenguru.com
 thejobandl.biz
 theonlygames.com
