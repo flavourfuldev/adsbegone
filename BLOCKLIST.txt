@@ -52,6 +52,7 @@ addresseepaper.com
 addresseetransportationsyndrome.com
 adentifi.com
 adexc.me
+adform.net
 adgully.com
 adiktive.b-cdn.net
 adktrack.com
@@ -608,6 +609,7 @@ hamburger.maggieeatstheangel.com
 hanstrackr.com
 hb-api-usa02.omnitagjs.com
 hbopenbid-njrb.pubmatic.com
+hbopenbid-sv3.pubmatic.com
 hconsukulti.co
 head.pet
 healthymed4u.com
@@ -707,6 +709,7 @@ ippsrvng.xyz
 irreparablebench.com
 ispot.tv
 ispsvc.net
+istrp.adform.net
 itchytidying.com
 itemedjhvh.casa
 itiger.online
@@ -1127,6 +1130,7 @@ s.autopilotapp.com
 s.console.adtarget.com.tr
 s.ohidxf.com
 s.zlink9.com
+s1-eu-cname.adformnet.akadns.net
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 sacredperpetratorbasketball.com
