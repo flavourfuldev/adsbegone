@@ -148,9 +148,11 @@ audacitydipping.com
 auteboon.net
 autopilotapp.com
 autotrack.g.ebay.com
+avazym.com
 aviary.amazon.com
 awcug.xyz
 awecrptjmp.com
+awembd.com
 awmdelivery.com
 ay.delivery
 b-hls-10.stripst.com
@@ -282,6 +284,7 @@ cdn.subscribers.com
 cdn.tax
 cdn.tsyndicate.com.fpbns.net
 cdn.vuukle.com
+cdn.wasp-182b.com
 cdn3.bestcontentindustry.top
 cdn3x.com
 cdnbmb.com
@@ -626,6 +629,9 @@ hgrtb.com
 hicloud.com
 high-prizebox1.life
 higherdebateplume.com
+highwebmedia-a-fallback.ably-realtime.com
+highwebmedia-b-fallback.ably-realtime.com
+highwebmedia-d-fallback.ably-realtime.com
 highwebmedia.com
 hls-eu.cherry.tv
 hls-sa.cherry.tv
@@ -637,6 +643,7 @@ hooligapps.com
 hotjar.com
 hotporn.zone
 howtubray.com
+hprofits.com
 hpyjmp.com
 hpyrdr.com
 hq3x.com
@@ -703,6 +710,7 @@ interstitial-07.com
 intimateshark.com
 intnotif.club
 ios-protection.com
+iosuppu.com
 ip-api.com
 ipify.org
 iponweb.net
@@ -743,6 +751,7 @@ kfuiprtjuqntp.com
 kinetiksoft.com
 kiolim.com
 kitchenremodelingsservicesusweb.com
+kiynew.com
 klarnaservices.com
 klaviyo-onsite.map.fastly.net
 klclick3.com
@@ -778,6 +787,7 @@ lnkam.com
 load-use1.exelator.com
 loadextremelystrongthefile.vip
 loadheavilystrongthefile.vip
+loc.nsfwadds.com
 lockerdomecdn.com
 locketamoral.com
 lockingadmitted.com
@@ -1046,8 +1056,13 @@ provocativeprivate.com
 prpops.com
 pscp.tv
 psychologywoman.com
+pt-static1.ptlwmstc.com
+pt-static2.ptlwmstc.com
+pt-static3.ptlwmstc.com
+pt.pwmctl.com
 ptauxofi.net
 ptgncdn.com
+ptlwmstc.com
 ptouber.com
 pubdream.com
 publir.com
@@ -1241,6 +1256,7 @@ static-landing-assets.project1content.com
 static-ma-ht.project1content.com
 static-pub.highwebmedia.com
 static.btloader.com
+stats.hprofits.com
 stats.postgen.com
 stats.systems
 statsy.net
@@ -1469,6 +1485,7 @@ vzzylo.com
 w3.mp.lura.live
 wankgalore.com
 washedinmate.com
+wasp-182b.com
 watch.redd.it
 watyourcon.fun
 wbidr.com
