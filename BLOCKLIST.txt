@@ -56,12 +56,14 @@ adform.net
 adgully.com
 adiktive.b-cdn.net
 adktrack.com
+adlv.hit.gemius.pl
 admatic.com
 admatic.com.tr
 admaticcdn.b-cdn.net
 admedit.net
 admjmp.com
 adobe.io
+adocean.pl
 adpmbexo.com
 adpmbtj.com
 adpushup-d.openx.net
@@ -221,6 +223,7 @@ boot-upextremely-bestoriginalfile.best
 boot-upfree-bestheavilyfile.best
 boot-upintensely-thesophisticatedfile.best
 boot-uporiginal-bestextremelyfile.best
+boot.pbstck.com
 boughtinvulnerablenothing.com
 bounceexchange.com
 bourremokihi.com
@@ -274,6 +277,7 @@ cdn.getblueshift.com
 cdn.id5-sync.com
 cdn.optkit.com
 cdn.otnolatrnup.com
+cdn.pbstck.com
 cdn.pdst.fm
 cdn.permutive.app
 cdn.run-syndicate.com.fpbns.net
@@ -559,6 +563,7 @@ geilehure.com
 geistm.com
 gejute.com
 gemini.yahoo.com
+gemius.pl
 geni.us
 geo.search-gtm.spotxchange.com.akadns.net
 geodns.me
@@ -703,6 +708,7 @@ insanityoh.com
 inspectorstrongerpill.com
 install-network.com
 instantcheckmate.com
+intake.pbstck.com
 intellipopup.com
 intentiq.com
 interst12.com
@@ -807,6 +813,7 @@ lsitenonrepeat.com
 ltwebstatic.com
 luckyorange.com
 luckyorange.net
+lv.adocean.pl
 lz-pub-ads.com
 m.chaturbate.com
 m.cherry.tv
@@ -980,6 +987,7 @@ paths.digital
 payingnoodlescam.com
 payshield.ai
 pbbl.co
+pbstck.com
 pdst.fm
 peachlandus.com
 peech2eecha.com
@@ -1028,6 +1036,7 @@ pottercosign.com
 powerlinks.com
 ppnllc.com
 prd-collector-anon.ex.co
+prebid-eu.creativecdn.com
 prepenseprepensecubicoperating.com
 preponderantbasisbutterfly.com
 prettyass.org
@@ -1069,6 +1078,7 @@ publir.com
 publish.vuukle.com
 pubmatic.com
 puddlemalnutritioncult.com
+pugm-va.pubmatic.com
 push.soft-com.biz
 puwpush.com
 pvvstream.pro
@@ -1148,6 +1158,7 @@ s-onetag.com
 s-unoadsrv-com.geodns.me
 s.autopilotapp.com
 s.console.adtarget.com.tr
+s.kazfv.com
 s.ohidxf.com
 s.zlink9.com
 s1-eu-cname.adformnet.akadns.net
@@ -1239,6 +1250,7 @@ sportsinnovationday.com
 sportsweardl.top
 spot.im
 spotxchange.com
+spug-va.pubmatic.com
 spzqxefawfeubq.com
 squeezedthoughtfully.com
 srvpcn.com
@@ -1266,6 +1278,7 @@ stickyharry.com
 stivers-ricsovers.com
 stores-counters.wix.com
 storetail.net
+stpd.cloud
 strapi.reddit.com
 streamcompletelystrongpro.best
 stripcdn.com
@@ -1397,6 +1410,7 @@ txxx.tube
 tynt.com
 ub-analytics.com
 ubembed.com
+ublock.org
 ueuodgnrhb.com
 ujgjyjltunl.com
 ukrnment.one
