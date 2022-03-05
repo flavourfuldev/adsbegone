@@ -165,8 +165,11 @@ b-hls-10.stripst.com
 b-hls-19.stripst.com
 b-hls-23.stripst.com
 b-us6.stripcdn.com
+b.bestcontentfee.top
 b.bestcontentfood.top
 b.bestcontentindustry.top
+b.bestcontentsystem.top
+b.bestcontenttool.top
 b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
 b1sync.zemanta.com
@@ -196,6 +199,7 @@ best-content.me
 bestappland.me
 bestcontentfee.top
 bestcontentfood.top
+bestcontentindustry.top
 bestcontentsystem.top
 bestcontenttool.top
 bestpeachus.com
