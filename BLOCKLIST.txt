@@ -132,6 +132,7 @@ appdomain.cloud
 apple-scan.net
 applesforcleaning.net
 applogy.com
+apps.media-lab.ai
 arbourrenewal.com
 ardownload.adobe.com
 armmf.adobe.com
@@ -157,11 +158,14 @@ awcug.xyz
 awecrptjmp.com
 awembd.com
 awmdelivery.com
+aws-fr-sync.bidswitch.net
+aws-fr.bidswitch.net
 ay.delivery
 b-hls-10.stripst.com
 b-hls-19.stripst.com
 b-hls-23.stripst.com
 b-us6.stripcdn.com
+b.bestcontentfood.top
 b.bestcontentindustry.top
 b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
@@ -200,8 +204,10 @@ bf98738ejy.bf.dynatrace.com
 bhpho.to
 bid-engine.com
 bidder-us-east-1.prod.justpremium.com
+biddr.brealtime.com.cdn.cloudflare.net
 bidgear.com
 bids.proper.io
+bidswitch.net
 bigvideo.net
 birthdiscipline.com
 bizrate.com
@@ -290,6 +296,7 @@ cdn.tax
 cdn.tsyndicate.com.fpbns.net
 cdn.vuukle.com
 cdn.wasp-182b.com
+cdn3.bestcontentfood.top
 cdn3.bestcontentindustry.top
 cdn3x.com
 cdnbmb.com
@@ -349,6 +356,7 @@ collector-hpn.ghostery.net
 com-com-mobi.com
 comasoiling.casa
 comet.sc-apps.com
+comet.stripchat.com
 cometmaster.com
 commercialvalue.org
 conditionwildest.com
@@ -392,6 +400,7 @@ d.clarity.ms
 d24ak3f2b.top
 darnuid.imrworldwide.com
 dat.its-up.com
+dat1.its-up.com
 databasegdriveplayer.xyz
 datadoghq-browser-agent.com
 dateddeed.com
@@ -453,6 +462,7 @@ dynatrace.com
 dzhjmp.com
 dzienkudrow.com
 e-fallback.pa.highwebmedia.com
+e-prod-alb-s001-02-us-east-1.adzerk.net
 e1f95201b19594.site
 earneydisti.fun
 earningserie.co
@@ -468,6 +478,7 @@ elizaguarapo.com
 embed.mp4.center
 embox.life
 emciduca.xyz
+emxdgt.com
 endable-neturn.icu
 enginsquawks.cam
 enjoyingbind.com
@@ -489,6 +500,7 @@ etrecantformation.com
 eu.messenger-notify.digital
 eu.rollmeout.xyz
 eu.rollserver.xyz
+eu.srv.stackadapt.com
 eudoxia-myr.com
 everclk.com
 everesttech.net
@@ -639,7 +651,30 @@ high-prizebox1.life
 higherdebateplume.com
 highwebmedia-a-fallback.ably-realtime.com
 highwebmedia-b-fallback.ably-realtime.com
+highwebmedia-c-fallback.ably-realtime.com
 highwebmedia-d-fallback.ably-realtime.com
+highwebmedia-e-fallback.ably-realtime.com
+highwebmedia-f-fallback.ably-realtime.com
+highwebmedia-g-fallback.ably-realtime.com
+highwebmedia-h-fallback.ably-realtime.com
+highwebmedia-i-fallback.ably-realtime.com
+highwebmedia-j-fallback.ably-realtime.com
+highwebmedia-k-fallback.ably-realtime.com
+highwebmedia-l-fallback.ably-realtime.com
+highwebmedia-m-fallback.ably-realtime.com
+highwebmedia-n-fallback.ably-realtime.com
+highwebmedia-o-fallback.ably-realtime.com
+highwebmedia-p-fallback.ably-realtime.com
+highwebmedia-q-fallback.ably-realtime.com
+highwebmedia-r-fallback.ably-realtime.com
+highwebmedia-s-fallback.ably-realtime.com
+highwebmedia-t-fallback.ably-realtime.com
+highwebmedia-u-fallback.ably-realtime.com
+highwebmedia-v-fallback.ably-realtime.com
+highwebmedia-w-fallback.ably-realtime.com
+highwebmedia-x-fallback.ably-realtime.com
+highwebmedia-y-fallback.ably-realtime.com
+highwebmedia-z-fallback.ably-realtime.com
 highwebmedia.com
 hls-eu.cherry.tv
 hls-sa.cherry.tv
@@ -694,6 +729,7 @@ img.strpst.com
 imglnke.com
 immigratethorn.com
 immunepine.com
+imp-euro.emxdgt.com
 impact.com
 impactserving.com
 important-notices.com
@@ -749,6 +785,7 @@ jomtingi.net
 joovf.xyz
 joro1.xyz
 joylookr.com
+js.brealtime.com
 juicyads.com
 jumplersend.com
 junmediadirect.com
@@ -775,6 +812,7 @@ laudypauty.com
 leadid.com
 leaked-video.live
 leasewebultracdn.com
+lehsrv.com
 leojmp.com
 lightrdr.best
 lightroom.adobe.com
@@ -835,6 +873,7 @@ mastermilligram.com
 mawlaybob.com
 maxcdn.com
 mdyjmp.com
+media-lab.ai
 media.net
 mediapalmtree.com
 mediapicker.com
@@ -844,6 +883,7 @@ melongnaw.com
 mersionbronze.cam
 messenger-notify.digital
 metrics.icloud.com
+metrics.redgifs.com
 mgnetu.com
 micakidaugust.com
 midnightnosebleeddoorway.com
@@ -1097,6 +1137,7 @@ queentits.com
 quickvasurvey.com
 qutaduhi.icu
 qwerty24.net
+r-us.tsyndicate.com
 r.crtrcr.com
 r.pubdream.com
 radarconsultation.com
@@ -1260,6 +1301,8 @@ squeezedthoughtfully.com
 srvpcn.com
 srvtrck.com
 st.stripcdn.com
+stackadapt.com
+stackadapt_public.s3.amazonaws.com
 stagepopkek.com
 standartrecognition.com
 stashedaccel.cam
@@ -1407,6 +1450,7 @@ turbopreise.de
 turmoilragcrutch.com
 twik.io
 twinrdsrv.com
+twinredads.com
 twoproxy.net
 txxx.ahcdn.com
 txxx.com
@@ -1446,6 +1490,7 @@ uptimecdn.com
 us-vip001.taboola.com
 us.shein.com
 use-secure.com
+user-data-us-east.bidswitch.net
 user-shield-check.com
 userbenchmark.com
 userhabit.io
@@ -1608,20 +1653,3 @@ zunsoach.com
 zuphaims.com
 zvetokr2hr8pcng09.com
 zybrdr.com
-podosupsurge.com
-biddr.brealtime.com.cdn.cloudflare.net
-spug-va.pubmatic.com
-intake.pbstck.com
-js.brealtime.com
-imp-euro.emxdgt.com
-emxdgt.com
-eu.srv.stackadapt.com
-stackadapt.com
-stackadapt_public.s3.amazonaws.com
-pugm-va.pubmatic.com
-user-data-us-east.bidswitch.net
-hbopenbid88000nf.pubmatic.com
-cdn.pbstck.com
-aws-fr-sync.bidswitch.net
-aws-fr.bidswitch.net
-bidswitch.net
