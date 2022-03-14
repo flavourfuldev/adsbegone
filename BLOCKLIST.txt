@@ -768,6 +768,7 @@ intnotif.club
 ios-protection.com
 iosuppu.com
 ip-api.com
+iphonesubmissions.apple.com
 ipify.org
 iponweb.net
 ippsrvng.xyz
@@ -1027,6 +1028,7 @@ otnolatrnup.com
 otrwaram.com
 oufauthy.net
 ourfamilygame.com
+outbrain.map.fastly.net
 outbrain.org
 ovenbifaces.cam
 overboardinclose.com
