@@ -163,7 +163,9 @@ aws-fr-sync.bidswitch.net
 aws-fr.bidswitch.net
 ay.delivery
 b-hls-10.stripst.com
+b-hls-18.doppiocdn.com
 b-hls-19.stripst.com
+b-hls-23.doppiocdn.com
 b-hls-23.stripst.com
 b-us6.stripcdn.com
 b.bestcontentfee.top
@@ -364,6 +366,7 @@ comet.sc-apps.com
 comet.stripchat.com
 cometmaster.com
 commercialvalue.org
+compressware.in
 conditionwildest.com
 congressaffrayghosts.com
 connexity.net
@@ -453,6 +456,7 @@ do7.pl
 dofasting.com
 dolphinanthill.com
 dominations.xyz
+doppiocdn.com
 dorpat.geo.iponweb.net
 downloadtube.net
 dozubatan.com
@@ -616,6 +620,7 @@ gloonseetaih.com
 gloos-ves.com
 gloxeept.com
 go.bshrdr.com
+go.goadserver.com
 go.goasrv.com
 go.hpyjmp.com
 go.xxxijmp.com
@@ -623,6 +628,7 @@ go.youcontrolher.com
 go.zybrdr.com
 go2affise.com
 go2cloud.org
+goadserver.com
 goasrv.com
 goleft.media
 goop.com
@@ -717,6 +723,7 @@ icotrack.net
 id.geistm.com
 id5-sync.com
 iduedkljdfkjadsfj544cwe3efgg.xyz
+ietyofedinj89yewtburgh.com
 ihegwoy.xyz
 ihytpjo2q2.com
 illicitdandily.cam
@@ -1250,6 +1257,7 @@ secureanalytic.com
 securebill.me
 secureservercdn.net
 security-mall.eufylife.com
+sefemedical.com
 sekindo.com
 self.events.data.microsoft.com
 seniorlivingusaresidence.com
