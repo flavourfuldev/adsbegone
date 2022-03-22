@@ -129,6 +129,7 @@ app-measurement.com
 app-stream.net
 app.govee.com
 app2.mkaff.com
+appcast.io
 appdomain.cloud
 apple-scan.net
 applesforcleaning.net
@@ -163,9 +164,7 @@ aws-fr-sync.bidswitch.net
 aws-fr.bidswitch.net
 ay.delivery
 b-hls-10.stripst.com
-b-hls-18.doppiocdn.com
 b-hls-19.stripst.com
-b-hls-23.doppiocdn.com
 b-hls-23.stripst.com
 b-us6.stripcdn.com
 b.bestcontentfee.top
@@ -256,6 +255,7 @@ buhatfjrk9dje10eme.com
 burt.ai
 burt.io
 butical-alecast.icu
+bv.viehviw.xyz
 c.adsco.re
 c.ptgncdn.com
 c.stripst.com
@@ -283,6 +283,7 @@ cdn.admatic.com.tr
 cdn.barscreative1.com
 cdn.bncloudfl.com
 cdn.cloudfrale.com
+cdn.eniqdix.icu
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
 cdn.exoticads.com
@@ -303,6 +304,7 @@ cdn.tax
 cdn.tsyndicate.com.fpbns.net
 cdn.vuukle.com
 cdn.wasp-182b.com
+cdn01.x-plarium.com
 cdn3.bestcontentfood.top
 cdn3.bestcontentindustry.top
 cdn3x.com
@@ -346,6 +348,7 @@ cleanprotectedswitch.com
 cleanupcokesunny.com
 clevermillercooperation.com
 click.a-ads.com
+click.appcast.io
 click.expmediadirect1.com
 clickaine.com
 clickprotects.com
@@ -354,12 +357,14 @@ cloud-apk.store
 cloudimagesb.com
 cluodlfare.com
 cmcd1.com
+cmp.jobs
 cmrdr.com
 cnnx.io
 cnstrc.com
 codedpigzed.cam
 coin.amazonpay.com
 collector-hpn.ghostery.net
+collector.plarium.com
 com-com-mobi.com
 comasoiling.casa
 comet.sc-apps.com
@@ -456,7 +461,6 @@ do7.pl
 dofasting.com
 dolphinanthill.com
 dominations.xyz
-doppiocdn.com
 dorpat.geo.iponweb.net
 downloadtube.net
 dozubatan.com
@@ -492,6 +496,7 @@ emciduca.xyz
 emxdgt.com
 endable-neturn.icu
 enginsquawks.cam
+eniqdix.icu
 enjoyingbind.com
 enkayijamal.club
 entsnotesq.fun
@@ -612,6 +617,7 @@ getquickresultsnow.com
 getund.com
 getwil.com
 ggggg.xxxvjmp.com
+gimiliminibi.com
 glaresling.com
 glassmilheart.com
 gloard.com
@@ -620,7 +626,6 @@ gloonseetaih.com
 gloos-ves.com
 gloxeept.com
 go.bshrdr.com
-go.goadserver.com
 go.goasrv.com
 go.hpyjmp.com
 go.xxxijmp.com
@@ -628,7 +633,6 @@ go.youcontrolher.com
 go.zybrdr.com
 go2affise.com
 go2cloud.org
-goadserver.com
 goasrv.com
 goleft.media
 goop.com
@@ -723,7 +727,6 @@ icotrack.net
 id.geistm.com
 id5-sync.com
 iduedkljdfkjadsfj544cwe3efgg.xyz
-ietyofedinj89yewtburgh.com
 ihegwoy.xyz
 ihytpjo2q2.com
 illicitdandily.cam
@@ -862,6 +865,7 @@ lologhfd.com
 lookereras.casa
 looksthrilled.com
 loopme.me
+loopychoopi.com
 lotsofclicksglobe.com
 lousebankroll.com
 love.linkly.io
@@ -898,6 +902,7 @@ media.net
 mediapalmtree.com
 mediapicker.com
 mediarithmics.com
+medousa-rho.com
 megahookups.net
 melanthios-ana.com
 melongnaw.com
@@ -1005,6 +1010,7 @@ omnitagjs.com
 omtrdc.net
 oncerensky.cam
 onclickalgo.com
+onclickclear.com
 onclickgenius.com
 onclickperformance.com
 onetag.com
@@ -1075,6 +1081,7 @@ pisism.com
 pix.pub
 pjatr.com
 plainwrk.name
+plarium.com
 player.propervideo.io
 plywoodenchant.com
 pntra.com
@@ -1145,6 +1152,7 @@ pubmatic.com
 puddlemalnutritioncult.com
 pugm-va.pubmatic.com
 push.soft-com.biz
+pushnow.net
 puwpush.com
 pvvstream.pro
 px.powerlinks.com
@@ -1156,6 +1164,7 @@ qggypucwewn.com
 qualtrics.com
 quantummetric.com
 queentits.com
+queit.in
 quickvasurvey.com
 qutaduhi.icu
 qwerty24.net
@@ -1213,6 +1222,7 @@ rqhere2.com
 rsafrwd.com
 rsms.me
 rtbbnr.com
+rtbrvdirect.com
 rtxt.net
 rubylife.go2cloud.org
 ruinedhang.com
@@ -1272,6 +1282,7 @@ sexdatg.com
 sexu.com
 sffsdvc.com
 sflywfcanq.com
+sfultraight.xyz
 share-online.biz
 sharethrough.com
 shein.com
@@ -1338,6 +1349,8 @@ static-landing-assets.project1content.com
 static-ma-ht.project1content.com
 static-pub.highwebmedia.com
 static.btloader.com
+static.queit.in
+static.x-plarium.com
 stats.hprofits.com
 stats.postgen.com
 stats.systems
@@ -1512,6 +1525,7 @@ uptime.com
 uptimecdn.com
 us-east-eb2.3lift.com
 us-vip001.taboola.com
+us.pushnow.net
 us.shein.com
 use-secure.com
 user-data-us-east.bidswitch.net
@@ -1549,6 +1563,7 @@ video.your-notice.com
 videoplayerhub.com
 videosprofitnetwork.com
 vids.viaplays.com
+viehviw.xyz
 viekjol.icu
 viixyr.com
 violentthinner.com
@@ -1616,13 +1631,16 @@ www.ebayadservices.com
 www.gravatar.com
 www.jdq0lb8qy4.com
 www.nebwvbpelobi.com
+www.onclickclear.com
 www.pbhrxxcuobz.com
 www.profitabledisplaycontent.com
 www.qutaduhi.icu
 www.sflywfcanq.com
 www.targetingpartner.com
 www.yvukxuqh.com
+www.zuagolh.xyz
 wyday.com
+x-plarium.com
 xcafe.com
 xfxtyyagndgbg.xyz
 xhamsterpremium.com
@@ -1674,6 +1692,7 @@ zoelover.com
 zog.link
 zoicanh.icu
 zortam.com
+zuagolh.xyz
 zunsoach.com
 zuphaims.com
 zvetokr2hr8pcng09.com
