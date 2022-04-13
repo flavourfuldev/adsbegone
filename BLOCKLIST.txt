@@ -167,6 +167,7 @@ awmdelivery.com
 aws-fr-sync.bidswitch.net
 aws-fr.bidswitch.net
 ay.delivery
+ay.gy
 b-hls-10.stripst.com
 b-hls-19.stripst.com
 b-hls-23.stripst.com
@@ -182,6 +183,7 @@ b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
 b1sync.zemanta.com
 b2c-contenthub.com
+baffledzein.com
 balsascotleak.com
 bam-cell.nr-data.net
 bananaian.com
@@ -193,6 +195,7 @@ bannedsextapes.com
 baradoot.com
 baresi.xyz
 barscreative1.com
+barsoocm.com
 bathroomremodelingshomeusa.com
 baublemarts.com
 beacons2.gvt2.com
@@ -262,11 +265,13 @@ burt.ai
 burt.io
 butical-alecast.icu
 bv.viehviw.xyz
+bz17h.xyz
 c.adsco.re
 c.ptgncdn.com
 c.srvpcn.com
 c.stripst.com
 c1vk.online
+c2popadsad.popads.netdna-cdn.com
 c3t-system-err.club
 cam-content.com
 camschat.net
@@ -288,12 +293,14 @@ catsnbootsncats2020.com
 cbjpeg.stream.highwebmedia.com
 cbox.ws
 cdn.admatic.com.tr
+cdn.ay.gy
 cdn.barscreative1.com
 cdn.bncloudfl.com
 cdn.cloudfrale.com
 cdn.eniqdix.icu
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
+cdn.ex.co
 cdn.exoticads.com
 cdn.fluidplayer.com
 cdn.getblueshift.com
@@ -312,6 +319,7 @@ cdn.tax
 cdn.tsyndicate.com.fpbns.net
 cdn.vuukle.com
 cdn.wasp-182b.com
+cdn.xervoo.net
 cdn01.x-plarium.com
 cdn2.cam-content.com
 cdn3.bestcontentfood.top
@@ -321,6 +329,7 @@ cdnbmb.com
 cdnhwc2.com
 cdnjs.work
 cdnvid.top
+cedarz.top
 celebritycruises.com
 celeritascdn.com
 census.us-east-1.nielsencollections.com
@@ -362,6 +371,7 @@ click.expmediadirect1.com
 clickaine.com
 clickprotects.com
 clksite.com
+clkv4.extyoneplus-2.com
 cloud-apk.store
 cloudimagesb.com
 cluodlfare.com
@@ -492,6 +502,7 @@ e1f95201b19594.site
 earneydisti.fun
 earningserie.co
 earphonesvehicleexploded.com
+eavailand.com
 eavesdroppingsickleemotionally.com
 eb.proper.io
 ebuyibj.xyz
@@ -533,6 +544,7 @@ everclk.com
 everesttech.net
 evergage.com
 evgnet.com
+ex.co
 exadsdlv.s.llnwi.net
 exceptingincludedelivering.com
 exelator.com
@@ -542,6 +554,7 @@ explorads.xml.ak-is2.net
 expmediadirect.com
 expmediadirect1.com
 expresvpn-private-analytics.net
+extyoneplus-2.com
 eycrossible.fun
 ezanga.com
 facebook-program.com
@@ -894,6 +907,7 @@ ltwebstatic.com
 luckyorange.com
 luckyorange.net
 lv.adocean.pl
+lxqwed.top
 lz-pub-ads.com
 m.chaturbate.com
 m.cherry.tv
@@ -964,11 +978,13 @@ mycdn.me
 mylife.com
 myownwater.com
 mysearches.net
+mytrackspot.com
 n2ke4w655s.com
 na-ice.360yield.com
 naeu.geo.cloudwm-cdn.com
 naiadsystems.com
 naleapprength.xyz
+nathanaeldan.pro
 nativewpsh.com
 naturalmuscel.xyz
 nava.vap.lijit.com
@@ -1002,6 +1018,7 @@ notorietycheerypositively.com
 npfpkgxx.xyz
 nr-data.net
 nsfwadds.com
+ntconcert.com
 ntstrk.com
 nxsttv.com
 nydc1.outbrain.org
@@ -1015,6 +1032,7 @@ occxfzqyhhq.com
 ocsp.sectigo.com
 octaplajaggar.casa
 offers-api.ghostery.net
+offers.kim
 offerstrack.net
 officeapps.live.com
 officecdn.microsoft.com
@@ -1040,6 +1058,7 @@ online-metrix.net
 onlysex.tv
 onsuchas.co
 oogneenu.net
+op.cedarz.top
 open-plugin.com
 openx.com
 openx.net
@@ -1101,6 +1120,7 @@ pix.pub
 pjatr.com
 plainwrk.name
 plarium.com
+player.ex.co
 player.propervideo.io
 plywoodenchant.com
 pntra.com
@@ -1109,6 +1129,7 @@ podosupsurge.com
 podregarddomicile.com
 polyfill.io
 poodledopas.cam
+popads.netdna-cdn.com
 popnc.com
 pornhits.com
 pornhubly.com
@@ -1167,6 +1188,7 @@ ptouber.com
 pubdream.com
 publir.com
 publish.vuukle.com
+publisher-media.wibbitz.com
 pubmatic.com
 puddlemalnutritioncult.com
 pugm-va.pubmatic.com
@@ -1208,6 +1230,7 @@ reddit.com/gold
 reddit.com/premium
 redditpagematrics.com
 reddlink.tech
+redirect2719.com
 redirecto.link
 ref.cherry.tv
 regionseffective.com
@@ -1306,6 +1329,7 @@ sfultraight.xyz
 share-online.biz
 sharethrough.com
 shein.com
+shigl.top
 showcasead.com
 shukriya90.com
 sickmakes.com
@@ -1360,6 +1384,7 @@ stackadapt.com
 stackadapt_public.s3.amazonaws.com
 stagepopkek.com
 standartrecognition.com
+standroogly.com
 stashedaccel.cam
 static-assets.highwebmedia.com
 static-cdn.ashleymadison.com
@@ -1398,6 +1423,7 @@ sumflux.com
 surveyjunkie.com
 suspicionsvaluable.com
 sweetwater.com
+sx.lxqwed.top
 sync-jp.im-apps.net
 sync-unosync-com.geodns.me
 sync.hgrtb.com
@@ -1496,6 +1522,7 @@ trkbc.com
 trkpls3.com
 trkthat5.com
 trkvpn.xyz
+trrck.xyz
 trustedform.com
 trybulgingcoefficient.com
 trysera.com
@@ -1521,6 +1548,7 @@ ub-analytics.com
 ubembed.com
 ublock.org
 ueuodgnrhb.com
+ui.cedarz.top
 ujgjyjltunl.com
 ukrnment.one
 ulcdkiitoik.xyz
@@ -1624,12 +1652,14 @@ weather.psg.nexstardigital.net
 weaveradrenaline.com
 websitesreviewer.com
 wedgeenclosed.com
+weenymachinations.com
 weniix.com
 weserv.nl
 wessed-neancing.icu
 wetjenny.com
 whippedfreezerbegun.com
 whoutsog.net
+wibbitz.com
 widgets.guppy.live
 widgets.zemanta.com
 wilfulpessimistic.com
@@ -1666,9 +1696,12 @@ www.sflywfcanq.com
 www.targetingpartner.com
 www.yvukxuqh.com
 www.zuagolh.xyz
+www2.nathanaeldan.pro
 wyday.com
 x-plarium.com
+xc.shigl.top
 xcafe.com
+xervoo.net
 xfxtyyagndgbg.xyz
 xhamsterpremium.com
 xml-api.online
@@ -1724,4 +1757,3 @@ zunsoach.com
 zuphaims.com
 zvetokr2hr8pcng09.com
 zybrdr.com
-fullstory.com
