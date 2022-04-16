@@ -125,6 +125,7 @@ api-lr.adbecrsl.com
 api.airfind.com
 api.ashleymadison.com
 api.intentiq.com
+api.livechatinc.com
 api.promotions.skype.com
 api.vuukle.com
 api16-access-sg.pangle.io
@@ -219,6 +220,7 @@ bestcontentsystem.top
 bestcontenttool.top
 bestpeachus.com
 betgorebysson.club
+beveledcorkir.com
 bf98738ejy.bf.dynatrace.com
 bhpho.to
 bid-engine.com
@@ -842,6 +844,7 @@ jomazisuj.xyz
 jomtingi.net
 joovf.xyz
 joro1.xyz
+joygaskin.com
 joylookr.com
 js.brealtime.com
 juicyads.com
