@@ -206,6 +206,7 @@ b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
 b1sync.zemanta.com
 b2c-contenthub.com
+babyniceshark.com
 baffledzein.com
 balsascotleak.com
 bam-cell.nr-data.net
@@ -806,6 +807,7 @@ hurllotion.com
 hypermusk.com
 i.bimbolive.com
 i.dynspt.com
+i.jads.co
 iad02.search.spotxchange.com
 iadcontent.apple.com
 iadsdk.apple.com
@@ -1051,6 +1053,7 @@ mycdn.me
 mylife.com
 myownwater.com
 mysearches.net
+mystrm.store
 mytrackspot.com
 n2ke4w655s.com
 na-ice.360yield.com
@@ -1224,6 +1227,7 @@ posakevy.com
 postgen.com
 potentiallythrobbinggrotesque.com
 pottercosign.com
+poweredby.jads.co
 powerlinks.com
 ppnllc.com
 prd-collector-anon.ex.co
@@ -1556,6 +1560,7 @@ teengirl-pics.com
 teerseems-fories.com
 teknosicurezza.it
 temporarilybrancheshideous.com
+terk.nl
 terlaby.com
 ters.us-east-1.aiv-delivery.net
 tfosrv.com
@@ -1605,6 +1610,7 @@ torrentdownloader.xyz
 tour.eplay.com
 tovespiquener.com
 tpmr.com
+tps-ue1.doubleverify.com
 trace.svc.ui.com
 tracepath.cc
 track.kinetiksoft.com
@@ -1811,6 +1817,7 @@ www.profitabledisplaycontent.com
 www.qutaduhi.icu
 www.sflywfcanq.com
 www.targetingpartner.com
+www.terk.nl
 www.trustedcpmrevenue.com
 www.yvukxuqh.com
 www.zuagolh.xyz
@@ -1864,6 +1871,7 @@ zeotap.com
 zeronaught.com
 zikroarg.com
 zippyfrog.co
+zitaptugo.com
 zlink6.com
 zlink9.com
 zoelover.com
