@@ -87,6 +87,7 @@ adtarget.com
 adtarget.com.tr
 adtilt.com
 adtival.network
+adtng.com
 adtrue24.com
 adultnetworksc.com
 adulttime.com
@@ -277,6 +278,7 @@ boot.pbstck.com
 botd.fpapi.io
 boughtinvulnerablenothing.com
 bounceexchange.com
+bouncex.net
 bourremokihi.com
 brave.com
 braze.com
@@ -355,6 +357,7 @@ cdn.wasp-182b.com
 cdn.xervoo.net
 cdn01.basis.net
 cdn01.x-plarium.com
+cdn10.trafficjunky.net
 cdn2.cam-content.com
 cdn3.bestcontentfood.top
 cdn3.bestcontentindustry.top
@@ -363,6 +366,7 @@ cdnbmb.com
 cdnhwc2.com
 cdnjs.work
 cdnvid.top
+cdnwidget.com
 cedarz.top
 celebritycruises.com
 celeritascdn.com
@@ -493,6 +497,7 @@ deliver.ptgncdn.com
 delivery.adrecover.com.cdn.cloudflare.net
 demdex.net
 demotzincky.casa
+den.search.spotxchange.com
 dendrito.name
 depictimproperdenunciation.com
 desewowe.com
@@ -544,6 +549,7 @@ dzhjmp.com
 dzienkudrow.com
 e-fallback.pa.highwebmedia.com
 e-prod-alb-s001-02-us-east-1.adzerk.net
+e.cdnwidget.com
 e1f95201b19594.site
 earneydisti.fun
 earningserie.co
@@ -727,6 +733,7 @@ gosearches.net
 graph.instagram.com
 gravatar.com
 greedseed.world
+grid-use.bidswitch.net
 grovebrainwashtroubles.com
 growsumo.com
 grsm.io
@@ -799,6 +806,7 @@ hprofits.com
 hpyjmp.com
 hpyrdr.com
 hq3x.com
+ht-cdn2.adtng.com
 https://app-measurement.com/sdk-exp
 huaweisafedns.com
 hubspot.net
@@ -820,6 +828,7 @@ icotrack.net
 id.geistm.com
 id5-sync.com
 iduedkljdfkjadsfj544cwe3efgg.xyz
+idx.liadm.com
 ie1-bid.adsrvr.org
 ihegwoy.xyz
 ihytpjo2q2.com
@@ -937,6 +946,7 @@ leaked-video.live
 leasewebultracdn.com
 lehsrv.com
 leojmp.com
+liadm.com
 lightrdr.best
 lightroom.adobe.com
 lijit.com
@@ -955,6 +965,7 @@ ln.gamesrevenue.com
 lngtd.com
 lnkam.com
 load-use1.exelator.com
+loadcum.com
 loadextremelystrongthefile.vip
 loadheavilystrongthefile.vip
 loc.nsfwadds.com
@@ -1084,6 +1095,7 @@ nexstardigital.net
 nextgencounter.com
 nexusrules.officeapps.live.com
 ngecauuks.co
+nginx-ingress.wunderkind.co
 niceanimegames.com
 nielsencensusharmonizationprod.com
 nielsencollections.com
@@ -1179,6 +1191,7 @@ payingnoodlescam.com
 payshield.ai
 pbbl.co
 pbstck.com
+pd.cdnwidget.com
 pdst.fm
 peachlandus.com
 peech2eecha.com
@@ -1493,10 +1506,12 @@ static-forms.klaviyo.com
 static-landing-assets.project1content.com
 static-ma-ht.project1content.com
 static-pub.highwebmedia.com
+static.bounceexchange.com
 static.btloader.com
 static.jointhedating.com
 static.queit.in
 static.saumeechoa.com
+static.trafficjunky.com
 static.x-plarium.com
 stats.hprofits.com
 stats.postgen.com
@@ -1542,6 +1557,7 @@ taboola.blog
 taboola.com
 taboola.map.fastly.net
 tackledisplay.com
+tag.bouncex.net
 tag.idsync.analytics.yahoo.com
 tagdatax.com
 taghaugh.com
@@ -1798,6 +1814,7 @@ wpu.sh
 wpushsdk.com
 ws.onlyfans.com
 wss.redditmedia.com
+wunderkind.co
 wvhba6470p.com
 www-googletagmanager.l.google.com
 www.adtilt.com
