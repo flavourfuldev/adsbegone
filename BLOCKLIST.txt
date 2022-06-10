@@ -2,6 +2,7 @@
 # fpbns.net
 # scontent-iad3-2.cdninstagram.com
 0.gravatar.com
+04ce379e7a.com
 0676el9lskux.top
 0i0i0i0.com
 1.gravatar.com
@@ -142,6 +143,7 @@ api.ashleymadison.com
 api.intentiq.com
 api.livechatinc.com
 api.promotions.skype.com
+api.schemaapp.com
 api.vuukle.com
 api16-access-sg.pangle.io
 apientry.com
@@ -205,6 +207,7 @@ b.bestcontentsystem.top
 b.bestcontenttool.top
 b1-chidc2-win.zemanta.com
 b1-nydc1-win.zemanta.com
+b1681da48d.04ce379e7a.com
 b1sync.zemanta.com
 b2c-contenthub.com
 babyniceshark.com
@@ -270,6 +273,7 @@ bonertraffic14.pro
 bongacams7.com
 bongacash.com
 bonus-point1.life
+bookmsg.com
 boot-upextremely-bestoriginalfile.best
 boot-upfree-bestheavilyfile.best
 boot-upintensely-thesophisticatedfile.best
@@ -312,6 +316,7 @@ camsoda.com
 camsoda1.com
 camsplat.com
 camster.com
+canstrm.com
 capture-api.ap3prod.com
 capture.upfluence.co
 caradstag.casa
@@ -348,6 +353,7 @@ cdn.permutive.app
 cdn.run-syndicate.com.fpbns.net
 cdn.runative-syndicate.com
 cdn.runative-syndicate.com.fpbns.net
+cdn.schemaapp.com
 cdn.stripst.com
 cdn.subscribers.com
 cdn.tax
@@ -479,6 +485,7 @@ d24ak3f2b.top
 darnuid.imrworldwide.com
 dat.its-up.com
 dat1.its-up.com
+data.schemaapp.com
 databasegdriveplayer.xyz
 datadoghq-browser-agent.com
 dateddeed.com
@@ -646,6 +653,7 @@ footballilse.com
 forestwhilesteel.top
 foxnews.com
 foxnewsplayer-a.akamaihd.net
+fp.metricswpsh.com
 fpapi.io
 fpmplayer.com
 fqvvgjvjn.com
@@ -713,6 +721,7 @@ global.ssc.33across.com
 gloonseetaih.com
 gloos-ves.com
 gloxeept.com
+go-mpulse.net
 go.bshrdr.com
 go.goadserver.com
 go.goasrv.com
@@ -917,12 +926,16 @@ joro1.xyz
 joygaskin.com
 joylookr.com
 js.brealtime.com
+js.canstrm.com
+js.wpadmngr.com
+js.wpushsdk.com
 jtd.topgirlsdating.com
 juicyads.com
 jumplersend.com
 junmediadirect.com
 juryexecute.com
 justpremium.com
+justservingfiles.net
 kazfv.com
 keystone.mwbsys.com
 kfuiprtjuqntp.com
@@ -985,6 +998,7 @@ lovehomeporn.com
 loveme.uno
 loversagobearable.com
 lowdodrioon.com
+lpmedia.justservingfiles.net
 lsitenonrepeat.com
 ltwebstatic.com
 luckyorange.com
@@ -1024,6 +1038,7 @@ mersionbronze.cam
 messenger-notify.digital
 metrics.icloud.com
 metrics.redgifs.com
+metricswpsh.com
 mgnetu.com
 micakidaugust.com
 midnightnosebleeddoorway.com
@@ -1101,6 +1116,7 @@ nielsencensusharmonizationprod.com
 nielsencollections.com
 nimhuemark.com
 nisperodonax.com
+no2veeamggaseber.com
 nomorepecans.com
 nonotro.name
 notification.tubecup.net
@@ -1369,6 +1385,7 @@ router.infolinks.com
 rqhere2.com
 rsafrwd.com
 rsms.me
+rtb-land.com
 rtbbnr.com
 rtbrvdirect.com
 rtxt.net
@@ -1506,6 +1523,7 @@ static-forms.klaviyo.com
 static-landing-assets.project1content.com
 static-ma-ht.project1content.com
 static-pub.highwebmedia.com
+static.bookmsg.com
 static.bounceexchange.com
 static.btloader.com
 static.jointhedating.com
@@ -1798,6 +1816,8 @@ whoutsog.net
 wibbitz.com
 widgets.guppy.live
 widgets.zemanta.com
+wildcard46.go-mpulse.net
+wildcard46.go-mpulse.net.edgekey.net
 wilfulpessimistic.com
 windscreenregimepros.com
 winnerzcircle.com
