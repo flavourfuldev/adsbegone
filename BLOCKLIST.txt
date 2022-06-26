@@ -49,6 +49,7 @@ a.publir.com
 a.vfghc.com
 a.vfgtg.com
 a1451.casalemedia.com
+a2nn5eri7ce.com
 aaqiycetqwx.com
 aax-us-iad.amazon.com
 aaxads.com
@@ -589,6 +590,7 @@ dualstack.pinterest.map.fastly.net
 dualstack.tls13.taboola.map.fastly.net
 dufibepe.com
 dump.world
+dvypar.com
 dyn.eplay.com
 dynatrace.com
 dynspt.com
@@ -870,6 +872,7 @@ hpyjmp.com
 hpyrdr.com
 hq3x.com
 hqq.to
+hqq.tv
 ht-cdn2.adtng.com
 htlb.casalemedia.com.cdn.cloudflare.net
 https://app-measurement.com/sdk-exp
@@ -972,6 +975,7 @@ jambultoxamin.com
 javcosplay.com
 javvin.me
 jdq0lb8qy4.com
+jellyfish-app-fad9u.ondigitalocean.app
 jerkmate.com
 jessieemys.com
 jetpack.wordpress.com
@@ -1064,6 +1068,7 @@ love.linkly.io
 lovehomeporn.com
 loveme.uno
 loversagobearable.com
+lovextales.com
 lowdodrioon.com
 lpmedia.justservingfiles.net
 lsitenonrepeat.com
@@ -1232,6 +1237,7 @@ onclickalgo.com
 onclickclear.com
 onclickgenius.com
 onclickperformance.com
+ondigitalocean.app
 one.affiliateland.io
 oneclickfeed.com
 onetag.com
