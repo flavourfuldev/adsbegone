@@ -1498,6 +1498,7 @@ s.ohidxf.com
 s.zlink9.com
 s1-eu-cname.adformnet.akadns.net
 s10.histats.com.web.cdn.anycast.me
+s24.chatango.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 sacredperpetratorbasketball.com
@@ -1607,6 +1608,7 @@ squeezedthoughtfully.com
 srv.aso1.net
 srvpcn.com
 srvtrck.com
+st.chatango.com
 st.stripcdn.com
 stackadapt.com
 stackadapt_public.s3.amazonaws.com
@@ -1852,6 +1854,7 @@ user-data-us-east.bidswitch.net
 user-shield-check.com
 userbenchmark.com
 userhabit.io
+ust.chatango.com
 ustachedst.co
 utcatholicycl.co
 uzxkuwalnjp.com
@@ -1906,6 +1909,7 @@ voyeur-house.tv
 vrbo.com
 vs3.com
 vstzen.com
+vswlxqhvjiz.com
 vubihasdtbadiq.com
 vuukle.com
 vzzylo.com
@@ -1985,6 +1989,7 @@ www.sflywfcanq.com
 www.targetingpartner.com
 www.terk.nl
 www.trustedcpmrevenue.com
+www.vswlxqhvjiz.com
 www.yvukxuqh.com
 www.zuagolh.xyz
 www2.nathanaeldan.pro
