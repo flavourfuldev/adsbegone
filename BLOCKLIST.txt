@@ -155,6 +155,7 @@ api-lr.adbecrsl.com
 api-protected.protoawegw.com
 api.airfind.com
 api.ashleymadison.com
+api.automizely.com
 api.intentiq.com
 api.livechatinc.com
 api.promotions.skype.com
@@ -199,6 +200,8 @@ au79nt5wic4x.com
 audacitydipping.com
 audience.xml.ppcmate.com
 auteboon.net
+automizely-analytics.com
+automizely.com
 autopilotapp.com
 autotrack.g.ebay.com
 avazym.com
@@ -268,6 +271,7 @@ bestpeachus.com
 betgorebysson.club
 beveledcorkir.com
 bf98738ejy.bf.dynatrace.com
+bff-api.automizely.com
 bhpho.to
 bid-engine.com
 bidder-us-east-1.prod.justpremium.com
@@ -312,6 +316,7 @@ bristolhirevan.com
 britepool.com
 broomacknowledgedpinch.com
 browser-update.org
+browser.sentry-cdn.com
 bshrdr.com
 btds.zog.link
 btloader.com
@@ -320,6 +325,7 @@ bts.red12flyw2.site
 btttag.com
 bu3le2lp4t45e6i.com
 buhatfjrk9dje10eme.com
+bundle.conversionbear.com
 burt.ai
 burt.io
 butical-alecast.icu
@@ -366,6 +372,7 @@ cdn.barscreative1.com
 cdn.bncloudfl.com
 cdn.camshq.info
 cdn.cloudfrale.com
+cdn.codeblackbelt.com
 cdn.display.io
 cdn.eniqdix.icu
 cdn.eplayassets.com
@@ -376,6 +383,7 @@ cdn.fluidplayer.com
 cdn.getblueshift.com
 cdn.id5-sync.com
 cdn.javvin.me
+cdn.judge.me
 cdn.optkit.com
 cdn.otnolatrnup.com
 cdn.pbstck.com
@@ -446,6 +454,8 @@ click.appcast.io
 click.expmediadirect1.com
 click.mediacpc.com
 clickaine.com
+clickajobs.com
+clickajobs.io
 clickprotects.com
 clksite.com
 clkv4.extyoneplus-2.com
@@ -457,6 +467,7 @@ cmp.jobs
 cmrdr.com
 cnnx.io
 cnstrc.com
+codeblackbelt.com
 codedpigzed.cam
 coin.amazonpay.com
 collector-hpn.ghostery.net
@@ -476,6 +487,7 @@ consentmanager.net
 consentrenovate.com
 content.zeotap.com
 convers.link
+conversionbear.com
 conviva.com
 cookie-matching.mediarithmics.com
 corruptegypttook.com
@@ -999,9 +1011,11 @@ js.wpadmngr.com
 js.wpshsdk.com
 js.wpushsdk.com
 jtd.topgirlsdating.com
+judge.me
 juicyads.com
 jumplersend.com
 junmediadirect.com
+juntame.com
 juryexecute.com
 justpremium.com
 justservingfiles.net
@@ -1015,6 +1029,7 @@ kitchenremodelingsservicesusweb.com
 kiynew.com
 klarnaservices.com
 klaviyo-onsite.map.fastly.net
+klaviyo.com
 klclick3.com
 kneestep.com
 kolkwi4tzicraamabilis.com
@@ -1024,6 +1039,7 @@ kts.vasstycom.com
 kts.visitstats.com
 l2.io
 lander-cdn.ashleymadison.com
+lassampy.com
 laudypauty.com
 leadid.com
 leaked-video.live
@@ -1063,6 +1079,7 @@ lookereras.casa
 looksthrilled.com
 loopme.me
 loopychoopi.com
+loox.io
 lotsofclicksglobe.com
 lousebankroll.com
 love.linkly.io
@@ -1344,6 +1361,7 @@ potentiallythrobbinggrotesque.com
 pottercosign.com
 poweredby.jads.co
 powerlinks.com
+powr.io
 ppcmate.com
 ppnllc.com
 prd-collector-anon.ex.co
@@ -1530,6 +1548,7 @@ scriptvealpatronage.com
 scrubheiress.com
 scunderqueller.website
 sdarchpro.biz
+sdks.automizely-analytics.com
 secure.gravatar.com
 secureaddisplay.com
 secureanalytic.com
@@ -1553,6 +1572,7 @@ sffsdvc.com
 sflywfcanq.com
 sfultraight.xyz
 share-online.biz
+shareasale.com
 sharethrough.com
 shein.com
 shigl.top
@@ -1632,6 +1652,7 @@ static.btloader.com
 static.jointhedating.com
 static.queit.in
 static.saumeechoa.com
+static.shareasale.com
 static.trafficjunky.com
 static.x-plarium.com
 stats-dss1956-serving.com
@@ -1644,6 +1665,7 @@ steepto.com
 steinfqwe6782beck.com
 stickerchapelsailing.com
 stickyharry.com
+stilyoapps.com
 stivers-ricsovers.com
 stonordersity.xyz
 storage.adxadtracker.com
@@ -1800,6 +1822,7 @@ tumbral.com
 tunviralbionic.com
 turbopreise.de
 turmoilragcrutch.com
+twfhdr.clickajobs.com
 twik.io
 twinrdsrv.com
 twinredads.com
@@ -1942,6 +1965,7 @@ whippedfreezerbegun.com
 whisursand.com
 whoutsog.net
 wibbitz.com
+widaimty.com
 wideorganiz.xyz
 widgets.guppy.live
 widgets.zemanta.com
@@ -1974,6 +1998,7 @@ www-googletagmanager.l.google.com
 www.adtilt.com
 www.ashleymadison.com
 www.cherry.tv
+www.codeblackbelt.com
 www.cwchmb.com
 www.displayvertising.com
 www.ebayadservices.com
@@ -1982,14 +2007,17 @@ www.good-trading.com
 www.gravatar.com
 www.hentaiheroes.com
 www.jdq0lb8qy4.com
+www.klaviyo.com
 www.nebwvbpelobi.com
 www.onclickclear.com
 www.papayads.net
 www.pbhrxxcuobz.com
+www.powr.io
 www.profitabledisplaycontent.com
 www.qutaduhi.icu
 www.safestgatetocontent.com
 www.sflywfcanq.com
+www.stilyoapps.com
 www.targetingpartner.com
 www.terk.nl
 www.trustedcpmrevenue.com
