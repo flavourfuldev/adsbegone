@@ -158,6 +158,7 @@ api-protected.protoawegw.com
 api.airfind.com
 api.ashleymadison.com
 api.automizely.com
+api.getblueshift.com
 api.intentiq.com
 api.livechatinc.com
 api.promotions.skype.com
@@ -509,6 +510,7 @@ creatordashboards.com
 creepingbrings.com
 crepgate.com
 crisp.chat
+criteo.com
 crjpingate.com
 crlog-crcn.adobe.com
 croakflabbyconsume.com
@@ -732,6 +734,7 @@ fukpgbwf.com
 fullstory.com
 furyextloop.com
 fusoidactuate.com
+fwmrm.net
 g-sponsored-results.com
 g2a.com
 g2afse.com
@@ -817,6 +820,7 @@ growsumo.com
 grsm.io
 grychiphidu.com
 gscontxt.net
+gslb-op-us-east-02.v.fwmrm.net
 guppy.live
 h-signifyd.online-metrix.net
 h1.fastlyanalytics.map.fastly.net
@@ -1045,6 +1049,7 @@ l2.io
 lander-cdn.ashleymadison.com
 lassampy.com
 laudypauty.com
+lb.eu-1-id5-sync.com
 leadid.com
 leaked-video.live
 leasewebultracdn.com
@@ -1057,6 +1062,7 @@ lijit.com
 liliy9aydje10.com
 limberkilnman.cam
 limbloyal.com
+link.theplatform.com
 linkjet.me
 linkly.io
 littlecdn.com
@@ -1169,6 +1175,7 @@ msckey.com
 msgose.com
 muchadlz.com
 muffinyourself.com
+mug.va1.vip.prod.criteo.co
 munchenviableski.com
 mwgol.com
 my-wan.de
@@ -1334,6 +1341,7 @@ pisism.com
 pitchedfurs.com
 pix.pub
 pjatr.com
+pl.vizury.com
 plainwrk.name
 plarium.com
 player.ex.co
@@ -1380,6 +1388,7 @@ printfinger.tech
 privacytrck.com
 privatejetsflightus.com
 pro.ip-api.com
+prod.pinterest.global.map.fastly.net
 producingdestroyer.com
 profitabledisplaycontent.com
 profitabletrustednetwork.com
@@ -1419,6 +1428,7 @@ publisher-media.wibbitz.com
 pubmatic.com
 pubmine.com
 puddlemalnutritioncult.com
+pug88000nf.pubmatic.com
 pugm-va.pubmatic.com
 pugm88000nf.pubmatic.com
 push.soft-com.biz
@@ -1503,6 +1513,7 @@ rsafrwd.com
 rsms.me
 rtb-land.com
 rtbbnr.com
+rtbc-nyc.doubleverify.com
 rtbrennab.com
 rtbrvdirect.com
 rtxt.net
@@ -1521,6 +1532,7 @@ s.kazfv.com
 s.ohidxf.com
 s.zlink9.com
 s1-eu-cname.adformnet.akadns.net
+s1.fwmrm.net
 s10.histats.com.web.cdn.anycast.me
 s24.chatango.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
@@ -1634,6 +1646,8 @@ squeezedthoughtfully.com
 srv.aso1.net
 srvpcn.com
 srvtrck.com
+ssl.vizury.com
+ssp-sync.criteo.com
 st.chatango.com
 st.stripcdn.com
 stackadapt.com
@@ -1891,6 +1905,7 @@ utcatholicycl.co
 uzxkuwalnjp.com
 v-gals.com
 v.dynspt.com
+va-edge.sc.omtrdc.net
 vad-bid.adsrvr.org
 vasgenerete.site
 vasstycom.com
@@ -1949,6 +1964,7 @@ w3.mp.lura.live
 wankgalore.com
 waredscots.casa
 washedinmate.com
+wasoffspring.com
 wasp-182b.com
 watch.redd.it
 watyourcon.fun
