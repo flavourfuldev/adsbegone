@@ -391,6 +391,7 @@ cdn.ex.co
 cdn.exoticads.com
 cdn.fluidplayer.com
 cdn.getblueshift.com
+cdn.granify.com
 cdn.id5-sync.com
 cdn.javvin.me
 cdn.judge.me
@@ -838,6 +839,7 @@ good-trading.com
 goop.com
 gosbuy.com
 gosearches.net
+granify.com
 graph.instagram.com
 gravatar.com
 greedseed.world
@@ -1157,6 +1159,7 @@ masslistener.com
 masterbate.pro
 mastermilligram.com
 match-us-east-1-ecs.sharethrough.com
+matching.granify.com
 mauvelous1productions.com
 mawlaybob.com
 maxcdn.com
