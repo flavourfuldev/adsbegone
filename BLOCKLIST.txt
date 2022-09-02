@@ -224,6 +224,7 @@ assoc-na.associates-amazon.com
 associates-amazon.com
 astra9dlya10.com
 atatus.com
+atebilaterde.one
 ationwindon.com
 atsptp.com
 au79nt5wic4x.com
@@ -528,6 +529,7 @@ clickaine.com
 clickajobs.com
 clickajobs.io
 clickprotects.com
+clicksondelivery.com
 clksite.com
 clkv4.extyoneplus-2.com
 cloud-apk.store
@@ -583,6 +585,7 @@ creativedisplayformat.com
 creativesumo.com
 creatordashboards.com
 creepingbrings.com
+crengate.com
 crepgate.com
 crisp.chat
 criteo.com
@@ -931,6 +934,7 @@ go2cloud.org
 goadserver.com
 goaffmy.com
 goasrv.com
+gob-va1.pubmnet.com
 goldensevenseas.net
 goldwinds.xyz
 goleft.media
@@ -1093,6 +1097,8 @@ impression.api.feedmob.com
 impressionmonster.com
 imrworldwide.com
 in-page-push.com
+in.clicksondelivery.com
+in.hotjar.com
 indicatorlovelyavail.com
 infectedably.com
 infestpaddle.com
@@ -1196,6 +1202,7 @@ klaviyo.com
 klclick3.com
 kneestep.com
 kolkwi4tzicraamabilis.com
+ksehinkitw.hair
 kthwaalso.xyz
 ktkjmp.com
 kts.vasstycom.com
@@ -1255,6 +1262,7 @@ loopme.me
 loopychoopi.com
 loox.io
 lotsofclicksglobe.com
+louchees.net
 lousebankroll.com
 love.linkly.io
 lovedmca.com
@@ -1510,6 +1518,7 @@ papayads.net
 parsely.com
 partoukfar.co
 paths.digital
+patriotfront.us
 payingnoodlescam.com
 payshield.ai
 pbbl.co
@@ -1640,6 +1649,7 @@ publish.vuukle.com
 publisher-media.wibbitz.com
 pubmatic.com
 pubmine.com
+pubmnet.com
 puddlemalnutritioncult.com
 pug88000nf.pubmatic.com
 pugm-va.pubmatic.com
@@ -2087,6 +2097,7 @@ trkpls3.com
 trkthat5.com
 trkvpn.xyz
 trrck.xyz
+truist-29secure.com
 trustedcpmrevenue.com
 trustedform.com
 trwl1.com
@@ -2106,6 +2117,7 @@ turmoilragcrutch.com
 twfhdr.clickajobs.com
 twik.io
 twinrdsrv.com
+twinrdsyn.com
 twinredads.com
 twoproxy.net
 txxx.ahcdn.com
@@ -2365,6 +2377,7 @@ xmlfeed.feed-xml.com
 xmllover.com
 xmlrtb.com
 xmode.io
+xpectthatmy.shop
 xtraffic.plus
 xukcnplojb.top
 xvideos.best
