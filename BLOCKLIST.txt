@@ -150,6 +150,7 @@ akaquill.net
 akmxts.com
 akn.analytics.autodesk.com
 al.dmm.co.jp
+alas4kanmfa6a4mubte.com
 alb.reddit.com
 albacross.com
 alertlot.com
@@ -198,6 +199,7 @@ app-department.report
 app-measurement.com
 app-stream.net
 app.govee.com
+app.store-repair.online
 app2.mkaff.com
 appcast.io
 appdomain.cloud
@@ -209,6 +211,7 @@ applesforcleaning.net
 applogy.com
 applovin.com
 apps.media-lab.ai
+apps.mp3sz.fun
 arbourrenewal.com
 ardownload.adobe.com
 armmf.adobe.com
@@ -221,6 +224,7 @@ aslnk.link
 aso1.net
 assertcom.de
 assets.digstatic.dmm.com
+assets.emarsys.net
 assoc-amazon.com
 assoc-na.associates-amazon.com
 associates-amazon.com
@@ -228,6 +232,7 @@ astra9dlya10.com
 atatus.com
 atebilaterde.one
 ationwindon.com
+ats-wrapper.privacymanager.io
 atsptp.com
 au79nt5wic4x.com
 audacitydipping.com
@@ -255,9 +260,11 @@ ay.delivery
 ay.gy
 b-hls-07.doppiocdn.com
 b-hls-09.doppiocdn.com
+b-hls-09.doppiocdn.net
 b-hls-10.stripst.com
 b-hls-11.doppiocdn.com
 b-hls-17.doppiocdn.net
+b-hls-19.doppiocdn.net
 b-hls-19.stripst.com
 b-hls-23.doppiocdn.co
 b-hls-23.stripst.com
@@ -392,6 +399,7 @@ c.stripst.com
 c0.pubmine.com
 c1vk.online
 c2popadsad.popads.netdna-cdn.com
+c2shb.ssp.yahoo.com
 c3t-system-err.club
 c4caae4fe7.d7739252ca.com
 cabnnr.com
@@ -453,6 +461,7 @@ cdn.pbstck.com
 cdn.pdst.fm
 cdn.permutive.app
 cdn.pncloudfl.com
+cdn.privacy-mgmt.com
 cdn.run-syndicate.com.fpbns.net
 cdn.runative-syndicate.com
 cdn.runative-syndicate.com.fpbns.net
@@ -538,6 +547,8 @@ cloud-apk.store
 cloudflare-okta.com
 cloudimagesb.com
 cluodlfare.com
+cm.everesttech.net
+cm.everesttech.net.akadns.net
 cmcd1.com
 cmp.jobs
 cmrdr.com
@@ -628,6 +639,7 @@ dachinogla.com
 darnuid.imrworldwide.com
 dat.its-up.com
 dat1.its-up.com
+data.dianomi.com
 data.goasrv.com
 data.schemaapp.com
 databasegdriveplayer.xyz
@@ -704,6 +716,7 @@ dooloust.net
 doppiocdn.com
 dorpat.geo.iponweb.net
 dotomi.com
+dowjones.demdex.net
 downloadtube.net
 dozubatan.com
 drinker.world
@@ -737,6 +750,9 @@ eb.proper.io
 ebuyibj.xyz
 edayo.boost-next.co.jp
 edayo.waqool.com
+edge-player.wirewax.com
+edge.fullstory.com
+edge11-lax.live.mmcdn.com
 edgyconnaterag.com
 effacerevealing.com
 effective-design.com
@@ -749,6 +765,7 @@ ejcet5y9ag.com
 elfshipfish.casa
 elizaguarapo.com
 elonreptiloid.com
+emarsys.net
 embed.mp4.center
 embox.life
 emciduca.xyz
@@ -815,6 +832,9 @@ fastxxxpicssearch.com
 faultspiano.com
 fdelphaswcealifornica.com
 featbooksterile.com
+fedex.com.ssl.d2.sc.omtrdc.net
+fedex.sc.omtrdc.net
+fedex.tt.omtrdc.net
 feed-xml.com
 feedmob.com
 feelsjet.com
@@ -868,6 +888,7 @@ fullstory.com
 furricity-nursubaru.xyz
 furyextloop.com
 fusoidactuate.com
+futurehybrid.tech
 fvs.io
 fwmrm.net
 g-sponsored-results.com
@@ -893,6 +914,7 @@ gemini.yahoo.com
 gemius.pl
 geni.us
 genialsleptworldwide.com
+geo.privacymanager.io
 geo.search-gtm.spotxchange.com.akadns.net
 geodns.me
 geruksom.net
@@ -1253,6 +1275,7 @@ livechatinc.com
 liveclicker.net
 liveintent.com
 liveply.me
+liveramp.com
 livesexee.com
 ln.gamesrevenue.com
 lngtd.com
@@ -1370,6 +1393,7 @@ morfoz.net
 morrowfreezer.com
 movcpm.com
 movies.iatout.fr
+mp3sz.fun
 ms4.applovin.com
 msckey.com
 msgose.com
@@ -1432,6 +1456,7 @@ nimhuemark.com
 nisperodonax.com
 niyamabusiest.casa
 no2veeamggaseber.com
+noeyeon.com
 nomorepecans.com
 nonecss.com
 nonotro.name
@@ -1456,6 +1481,7 @@ occustantwidity.com
 occxfzqyhhq.com
 ocsp.sectigo.com
 octaplajaggar.casa
+offer.slgnt.eu
 offers-api.ghostery.net
 offers.kim
 offerstrack.net
@@ -1621,6 +1647,7 @@ pricespider.com
 primeroll.go2affise.com
 primis.tech
 printfinger.tech
+privacy-mgmt.com
 privacytrck.com
 privatejetsflightus.com
 pro.ip-api.com
@@ -1672,6 +1699,7 @@ puddlemalnutritioncult.com
 pug88000nf.pubmatic.com
 pugm-va.pubmatic.com
 pugm88000nf.pubmatic.com
+purch-match.dotomi.com
 push.soft-com.biz
 pushnow.net
 puwpush.com
@@ -1690,6 +1718,7 @@ quickvasurvey.com
 qutaduhi.icu
 qwerty24.net
 r-us.tsyndicate.com
+r.casalemedia.com.cdn.cloudflare.net
 r.crtrcr.com
 r.goaffmy.com
 r.pubdream.com
@@ -1757,6 +1786,7 @@ route.g-sponsored-results.com
 routemob.com
 router.infolinks.com
 rqhere2.com
+rs.fullstory.com
 rsafrwd.com
 rsms.me
 rtb-land.com
@@ -1801,6 +1831,7 @@ Sb4you1.com
 sbfull.com
 sc-apps.com
 sc.liveclicker.net
+sc.omtrdc.net
 sc.tynt.com
 sc1.pnstat.com
 scalppsoriasisadvice.info
@@ -1858,6 +1889,7 @@ siftforresults.com
 sillinessinterfere.com
 simplewebanalysis.com
 simpliftsbefore.info
+site-azp.slgnt.eu
 sitelock.com
 siteoid.com
 sitewithg.com
@@ -1888,6 +1920,7 @@ softballwaiting.com
 sollsectivej.fun
 solvewebagitated.com
 somequartercompare-8.live
+sommelier.futurehybrid.tech
 sp-prod.net
 spamvariationswithin.com
 spankbang.xxx
@@ -1900,6 +1933,7 @@ speedcurve.com
 spendivia.com
 spinandwin.casino
 sporedfryhum.com
+sportrookier.com
 sportsinnovationday.com
 sportsweardl.top
 spot.im
@@ -1939,6 +1973,7 @@ static.bookmsg.com
 static.bounceexchange.com
 static.btloader.com
 static.jointhedating.com
+static.noeyeon.com
 static.queit.in
 static.saumeechoa.com
 static.shareasale.com
@@ -1959,6 +1994,7 @@ stivers-ricsovers.com
 stonordersity.xyz
 stoopsellers.com
 storage.adxadtracker.com
+store-repair.online
 stores-counters.wix.com
 storetail.net
 stpd.cloud
@@ -2126,6 +2162,7 @@ trwl1.com
 trybulgingcoefficient.com
 trysera.com
 tsyndicate.com
+tt.omtrdc.net
 tube.ac
 tube.bz
 tubecup.net
@@ -2310,6 +2347,7 @@ wilfulpessimistic.com
 windscreenregimepros.com
 winnerzcircle.com
 wirelesseuropebalmy.com
+wirewax.com
 wkgnfofpabqoqt.xyz
 wl.hpyrdr.com
 wmgtr.com
