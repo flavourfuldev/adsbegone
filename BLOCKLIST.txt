@@ -21,6 +21,7 @@
 2qj7mq3w4uxe.com
 31.us.goldwinds.xyz
 33across.com
+34231a287f.851ae974fe.com
 360yield.com
 385d098d49.d7739252ca.com
 3lift.com
@@ -40,6 +41,7 @@
 6sense.com
 759964.xmlfeed.feed-xml.com
 762675.xmlfeed.feed-xml.com
+851ae974fe.com
 8744f707d2.com
 908505633.tapecontent.net
 911quake.com
@@ -59,6 +61,7 @@ a.vfghc.com
 a.vfgtg.com
 a1451.casalemedia.com
 a2nn5eri7ce.com
+a9db0668ca.c9a2795c07.com
 aaqiycetqwx.com
 aax-us-iad.amazon.com
 aaxads.com
@@ -86,6 +89,7 @@ addresseetransportationsyndrome.com
 adentifi.com
 adexc.me
 adform.net
+adguard.o3oy5wfla2ez.top
 adgully.com
 adiktive.b-cdn.net
 adktrack.com
@@ -157,6 +161,7 @@ alertlot.com
 alertscity.com
 allhottoss.cam
 allowsscaffold.com
+allsportsflix.xyz
 alukizeia.one
 amateursdownunder.com
 amazon-adsystem.com
@@ -259,27 +264,27 @@ aws-fr.bidswitch.net
 ay.delivery
 ay.gy
 b-hls-01.doppiocdn.com
-b-hls-02.doppiocdn.com
-b-hls-03.doppiocdn.com
-b-hls-04.doppiocdn.com
-b-hls-05.doppiocdn.com
-b-hls-06.doppiocdn.com
-b-hls-07.doppiocdn.com
-b-hls-08.doppiocdn.com
-b-hls-09.doppiocdn.com
-b-hls-10.doppiocdn.net
 b-hls-01.stripst.com
+b-hls-02.doppiocdn.com
 b-hls-02.stripst.com
+b-hls-03.doppiocdn.com
 b-hls-03.stripst.com
+b-hls-04.doppiocdn.com
 b-hls-04.stripst.com
+b-hls-05.doppiocdn.com
 b-hls-05.stripst.com
+b-hls-06.doppiocdn.com
 b-hls-06.stripst.com
+b-hls-07.doppiocdn.com
 b-hls-07.stripst.com
+b-hls-08.doppiocdn.com
 b-hls-08.stripst.com
+b-hls-09.doppiocdn.com
 b-hls-09.stripst.com
+b-hls-10.doppiocdn.net
 b-hls-10.stripst.com
-b-hls-11.stripst.com
 b-hls-11.doppiocdn.com
+b-hls-11.stripst.com
 b-hls-17.doppiocdn.net
 b-hls-19.doppiocdn.net
 b-hls-19.stripst.com
@@ -419,6 +424,8 @@ c2popadsad.popads.netdna-cdn.com
 c2shb.ssp.yahoo.com
 c3t-system-err.club
 c4caae4fe7.d7739252ca.com
+c9a2795c07.com
+c9d9c41eb7.dcf0698a21.com
 cabnnr.com
 cam-content.com
 camschat.net
@@ -452,6 +459,7 @@ cdn-camshq-info.b-cdn.net
 cdn-settings.appsflyersdk.com.cdn.cloudflare.net
 cdn.1vag.com
 cdn.admatic.com.tr
+cdn.allsportsflix.xyz
 cdn.ay.gy
 cdn.barscreative1.com
 cdn.bncloudfl.com
@@ -476,6 +484,7 @@ cdn.optkit.com
 cdn.otnolatrnup.com
 cdn.pbstck.com
 cdn.pdst.fm
+cdn.performit.xyz
 cdn.permutive.app
 cdn.pncloudfl.com
 cdn.privacy-mgmt.com
@@ -487,6 +496,7 @@ cdn.stripst.com
 cdn.strpst.com
 cdn.subscribers.com
 cdn.tax
+cdn.top-performance.work
 cdn.tsyndicate.com.fpbns.net
 cdn.uponelectabuzzor.club
 cdn.vuukle.com
@@ -577,6 +587,7 @@ codedpigzed.cam
 coin.amazonpay.com
 collector-hpn.ghostery.net
 collector.plarium.com
+collenwhr.website
 colossusssp.com
 com-com-mobi.com
 comasoiling.casa
@@ -668,6 +679,7 @@ daughterinlawrib.com
 daxab.com
 db56b114e7.91745b2bc3.com
 dbs-login6.com
+dcf0698a21.com
 dcop4khjxsmg.com
 dcs-vod.mp.lura.live
 dditscdn.com
@@ -765,6 +777,7 @@ eavailand.com
 eavesdroppingsickleemotionally.com
 eb.proper.io
 ebuyibj.xyz
+ed-c1.icetoot.me
 edayo.boost-next.co.jp
 edayo.waqool.com
 edge-player.wirewax.com
@@ -861,6 +874,7 @@ fftf.xyz
 fiefionfortes.casa
 fifozigry.com
 fikri-ayo.com
+firearmtire.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firstchoicereviews.com
@@ -1105,6 +1119,7 @@ iadsdk.apple.com
 iatout.fr
 ic.autopilotapp.com
 icalendar.datingtopgirls.com
+Icetoot.me
 icoawhou.com
 icon2count.com
 iconfinder.com
@@ -1134,6 +1149,7 @@ img.doodcdn.co
 img.eplay.com
 img.eplay.com.sds.rncdn7.com
 img.lz-pub-ads.com
+img.plyjam.me
 img.stripcdn.com
 img.stripst.com
 img.strpst.com
@@ -1216,6 +1232,7 @@ jomazisuj.xyz
 jomtingi.net
 joovf.xyz
 joro1.xyz
+josephinegrey.com
 joygaskin.com
 joylookr.com
 js.boost-next.co.jp
@@ -1240,6 +1257,7 @@ justpremium.com
 justservingfiles.net
 k.sni.global.fastly.net
 kazfv.com
+key.seckeyserv.me
 keystone.mwbsys.com
 keywords.mediavine.com
 kfuiprtjuqntp.com
@@ -1484,6 +1502,7 @@ notorietycheerypositively.com
 npfpkgxx.xyz
 nr-data.net
 nsfwadds.com
+nswith.com
 ntconcert.com
 ntstrk.com
 ntvpforever.com
@@ -1496,8 +1515,10 @@ obs.cheqzone.com
 occultcreed.com
 occustantwidity.com
 occxfzqyhhq.com
+ochringtensor.com
 ocsp.sectigo.com
 octaplajaggar.casa
+odfnxnzrmvxw.com
 offer.slgnt.eu
 offers-api.ghostery.net
 offers.kim
@@ -1561,6 +1582,7 @@ overloadhomes.com
 overloadofprizestoday.com
 owebanalytics.com
 oweqas.xyz
+ownsattrib.life
 p-smith.com
 p.dmm.co.jp
 p.dmm.com
@@ -1616,6 +1638,7 @@ plarium.com
 player.ex.co
 player.propervideo.io
 ply.jams.wiki
+plyjam.me
 plywoodenchant.com
 pncloudfl.com
 png2jpegconvert.com
@@ -1655,6 +1678,7 @@ ppnllc.com
 prd-collector-anon.ex.co
 prebid-eu.creativecdn.com
 prebid-match.dotomi.com
+preeditpastes.website
 premiumvertising.com
 prepenseprepensecubicoperating.com
 preponderantbasisbutterfly.com
@@ -1775,6 +1799,7 @@ regionseffective.com
 regulationprivilegescan.top
 rejcinews.pro
 reliablyuncomfortable.com
+remeyr.com
 reports.crashlytics.com
 reptilefightearn.com
 residebroadly.com
@@ -1838,6 +1863,7 @@ safebrowsingalert.com
 safestgatetocontent.com
 salesforceliveagent.com
 salutationcheerlessdemote.com
+sandwichesinstinctive.com
 sap.prprocess.com
 sapnkbang.com
 sasinsetuid.com
@@ -1867,6 +1893,7 @@ scunderqueller.website
 sda.fyi
 sdarchpro.biz
 sdks.automizely-analytics.com
+seckeyserv.me
 secure.gravatar.com
 secureaddisplay.com
 secureanalytic.com
@@ -1879,6 +1906,7 @@ self.events.data.microsoft.com
 seniorlivingusaresidence.com
 sensationaleducate.com
 sentry-cdn.com
+sentry-public.stripchat.com
 sentry.io
 sentry.stripchat.com
 serialwarning.com
@@ -2263,6 +2291,7 @@ v.dynspt.com
 v3.fstats.xyz
 va-edge.sc.omtrdc.net
 vad-bid.adsrvr.org
+varietiesplea.com
 vasgenerete.site
 vasstycom.com
 vast.yomeno.xyz
@@ -2342,6 +2371,7 @@ weather.psg.nexstardigital.net
 weaveradrenaline.com
 web.usebutton.com
 websitesreviewer.com
+websocket.stripchat.com
 wedgeenclosed.com
 weenymachinations.com
 weltercampe.com
@@ -2413,9 +2443,11 @@ www.klaviyo.com
 www.liveply.me
 www.mysexymatches.com
 www.nebwvbpelobi.com
+www.odfnxnzrmvxw.com
 www.onclickclear.com
 www.papayads.net
 www.pbhrxxcuobz.com
+www.plyjam.me
 www.powr.io
 www.premiumvertising.com
 www.profitabledisplaycontent.com
