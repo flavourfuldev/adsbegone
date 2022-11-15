@@ -373,6 +373,7 @@ bigvideo.net
 bimbolive.com
 bipedhematin.website
 birthdiscipline.com
+bitcoinads.growadvertising.com
 bitsinflew.com
 bizrate.com
 blenkbenched.casa
@@ -784,6 +785,8 @@ dvypar.com
 dyn.eplay.com
 dynatrace.com
 dynspt.com
+dynu.com
+dyykcw.nto
 dzhjmp.com
 dzienkudrow.com
 e-fallback.pa.highwebmedia.com
@@ -1045,6 +1048,7 @@ greenpromocode.com
 grid-use.bidswitch.net
 grifenhagen.com
 grovebrainwashtroubles.com
+growadvertising.com
 growsumo.com
 grsm.io
 grudgemotivate.com
@@ -1914,6 +1918,7 @@ s.pssy.xyz
 s.zlink9.com
 s1-eu-cname.adformnet.akadns.net
 s1.fwmrm.net
+s1.growadvertising.com
 s10.histats.com.web.cdn.anycast.me
 s24.chatango.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
