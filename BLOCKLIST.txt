@@ -6,6 +6,7 @@
 0676el9lskux.top
 0g3wn9mr3cab.top
 0i0i0i0.com
+0redire.com
 1.gravatar.com
 1000traffics.com
 12all.tv
@@ -81,6 +82,7 @@ acdn5165543.com
 acdn8753423.com
 ackcdn.net
 activitytonic.com
+actpop.info
 ad3bfc1e06.8744f707d2.com
 ad64463ef9.com
 adactioner.com
@@ -256,6 +258,7 @@ automizely-analytics.com
 automizely.com
 autopilotapp.com
 autotrack.g.ebay.com
+avalon.perfdrive.com
 avazym.com
 aviary.amazon.com
 avod.link
@@ -430,6 +433,7 @@ butical-alecast.icu
 bv.viehviw.xyz
 bz17h.xyz
 c.adsco.re
+c.disquscdn.com
 c.ptgncdn.com
 c.srvpcn.com
 c.stripst.com
@@ -458,6 +462,7 @@ capture.upfluence.co
 caradstag.casa
 cardinal5936.com
 cardiwersg.com
+cas.avalon.perfdrive.com
 cash.admobe.com
 cashewsforlife208.com
 cashimmer.com
@@ -578,6 +583,7 @@ click-cdn.com
 click.a-ads.com
 click.appcast.io
 click.expmediadirect1.com
+click.jadspro.live
 click.mediacpc.com
 clickadilla.com
 clickaine.com
@@ -631,6 +637,7 @@ corruptegypttook.com
 cortusmetals.com
 cpi-offers.com
 cpmprofitablecontent.com
+craftviking.co
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
 crazyegg.com
@@ -1067,6 +1074,7 @@ hbopenbid-njrb.pubmatic.com
 hbopenbid-sv3.pubmatic.com
 hbopenbid88000nf.pubmatic.com
 hconsukulti.co
+hdfree.info
 head.pet
 healthymed4u.com
 hearstapps.com
@@ -1136,6 +1144,7 @@ ht-cdn2.adtng.com.sds.rncdn7.com
 ht-cdn2.contentabc.com
 ht.ly
 htlb.casalemedia.com.cdn.cloudflare.net
+httplogserver-lb.global.unified-prod.sharethis.net
 https://app-measurement.com/sdk-exp
 huaweisafedns.com
 hubnsfw.com
@@ -1251,6 +1260,7 @@ itskiddoan.club
 ivxo.com
 iyalc.com
 jads.co
+jadspro.live
 jambultoxamin.com
 jammennaps.com
 javcosplay.com
@@ -1272,6 +1282,7 @@ jomtingi.net
 joovf.xyz
 joro1.xyz
 josephinegrey.com
+jotterads.xml.ak-is2.net
 joygaskin.com
 joylookr.com
 js.boost-next.co.jp
@@ -1296,6 +1307,7 @@ justpremium.com
 justservingfiles.net
 k.sni.global.fastly.net
 kazfv.com
+ketolivefit.com
 keystone.mwbsys.com
 keywords.mediavine.com
 kfuiprtjuqntp.com
@@ -1329,6 +1341,7 @@ leaked-video.live
 leasewebultracdn.com
 lehsrv.com
 leojmp.com
+lexicoggeegaw.website
 liadm.com
 lightrdr.best
 lightroom.adobe.com
@@ -1475,6 +1488,7 @@ mopinion.com
 morfoz.net
 morrowfreezer.com
 mosaikmtl.com
+moss.actpop.info
 movcpm.com
 movies.iatout.fr
 mp3sz.fun
@@ -1493,6 +1507,7 @@ my.timemq.com
 mybmrtrg.com
 mycdn.me
 mylife.com
+mymedia.club
 myownwater.com
 mysearches.net
 mysexymatches.com
@@ -1611,6 +1626,7 @@ open-plugin.com
 openx.com
 openx.net
 openxcdn.net
+operarymishear.store
 opticalprogress.com
 optimizesrv.com
 optkit.com
@@ -1667,6 +1683,7 @@ peech2eecha.com
 peniz.biz
 pepperjamnetwork.com
 perceivefilthy.com
+perfdrive.com
 perfectplanned.com
 permutive.app
 perpetratoronpour.com
@@ -1752,6 +1769,7 @@ privacy-mgmt.com
 privacytrck.com
 privatejetsflightus.com
 pro.ip-api.com
+prod.disqus.map.fastlylb.net
 prod.pinterest.global.map.fastly.net
 producingdestroyer.com
 profitabledisplaycontent.com
@@ -1834,6 +1852,7 @@ radull.com
 randemuscatellphotography.com
 rawclicks.club
 razdvabm.com
+razingvexable.store
 rbthre.work
 rcgexecsearch.com
 rcv.ixd.dmm.co.jp
@@ -1902,11 +1921,13 @@ rtbrvdirect.com
 rtxt.net
 rubbanlogistics.com
 rubylife.go2cloud.org
+ruckletawpy.com
 ruinedhang.com
 runative-syndicate.com
 rushinfo.adobe.com
 ruthowhagi.com
 rvrpushserv.com
+s-img.adskeeper.com
 s-onetag.com
 s-unoadsrv-com.geodns.me
 s.anadm.link
@@ -2144,6 +2165,7 @@ sync-unosync-com.geodns.me
 sync.colossusssp.com
 sync.hgrtb.com
 sync.intentiq.com
+syncbanjo.com
 syndication.realsrv.com
 syringekineses.website
 system-guard.net
@@ -2246,6 +2268,7 @@ tovanillitechan.com
 tovespiquener.com
 tpmr.com
 tps-ue1.doubleverify.com
+tq.craftviking.co
 tqmibkqlwqdysi.com
 trac.i3.dmm.co.jp
 trac.i3.r18.com
@@ -2336,6 +2359,7 @@ unithese-resteven.icu
 universal-mobileapp-inventory.net
 unphionetor.com
 unpkg.com
+unplacebonism.life
 unpleasantconcrete.com
 unrecognised-device-service.com
 unrootpteroid.cam
@@ -2518,6 +2542,7 @@ www.cherry.tv
 www.codeblackbelt.com
 www.cwchmb.com
 www.displayvertising.com
+www.disqus.com
 www.dmm.co.jp
 www.drinker.world
 www.dunbed.xyz
@@ -2529,6 +2554,7 @@ www.g-xxxhub.com
 www.gacheats.com
 www.good-trading.com
 www.gravatar.com
+www.hdfree.info
 www.hentaiheroes.com
 www.jdq0lb8qy4.com
 www.justfreecamz.com
@@ -2567,8 +2593,10 @@ xervoo.net
 xfxtyyagndgbg.xyz
 xhamsterpremium.com
 xml-api.online
+xml.ak-is2.net
 xml.blueparrot.media
 xml.ctrtraffic.com
+xml.mymedia.club
 xml.popmonetizer.net
 xml.poprtb.com
 xml.ppcmate.com
