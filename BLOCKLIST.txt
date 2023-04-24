@@ -496,6 +496,7 @@ blesseddigitconcept.com
 blkditsup.com
 bllender.art
 blmte.com
+bln.liveintent.com
 blockadsnot.com
 blockscamapp.xyz
 blogblog.com
@@ -746,6 +747,7 @@ client.holavpninstaller.com
 clksite.com
 clkv4.extyoneplus-2.com
 cloud-apk.store
+cloud.ogury.io
 cloudflare-okta.com
 cloudhost.wiki
 cloudimagesb.com
@@ -1714,6 +1716,7 @@ livechatinc.com
 liveclicker.net
 livecrystalkarma.com
 liveintent.com
+livepixel-production.bln.liveintent.com
 liveply.me
 liveramp.com
 livesexee.com
@@ -1886,6 +1889,7 @@ movcpm.com
 movies.iatout.fr
 movirastreamento.com
 mp3sz.fun
+ms-bidder-bid.prod.cloud.ogury.io
 ms4.applovin.com
 msckey.com
 msgose.com
@@ -2035,6 +2039,7 @@ officecdn.microsoft.edgesuite.net
 officercleaner.com
 officialbanisters.com
 oftheussi.one
+ogury.io
 ohkojaebl.icu
 olsonestudio.com
 omgtnc.com
@@ -2245,6 +2250,7 @@ privacy-mgmt.com
 privacytrck.com
 privatejetsflightus.com
 pro.ip-api.com
+prod.cloud.ogury.io
 prod.disqus.map.fastlylb.net
 prod.pinterest.global.map.fastly.net
 producingdestroyer.com
