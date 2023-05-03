@@ -2,6 +2,7 @@
 # fpbns.net
 # scontent-iad3-2.cdninstagram.com
 0.gravatar.com
+04c7739392.com
 04ce379e7a.com
 0676el9lskux.top
 085f2f7407.com
@@ -21,10 +22,12 @@
 2020mustang.com
 2023musk.com
 20ethereum.org
+20f555d506.com
 2375i1164.xyz
 23tesla.com
 23tesla.net
 23tesla.org
+28930.weednewspro.com
 2det.net
 2e59c3b290.com
 2o7.net
@@ -47,6 +50,7 @@
 4mhyr.com
 5.at.atwola.com
 51.la
+52b6952e14.9714ddef1d.com
 558f2a6a7b.com
 5a114f2436.com
 5da55619e0.com
@@ -60,11 +64,14 @@
 799f57f5cc.com
 851ae974fe.com
 8744f707d2.com
+87c5ce40f8.com
 89d1a36653.com
+8ec5a0be85.87c5ce40f8.com
 908505633.tapecontent.net
 911quake.com
 913d3aa571.com
 91745b2bc3.com
+9714ddef1d.com
 9bbd72928f.com
 a-ads.com
 a.acdn12354732.com
@@ -84,6 +91,7 @@ a.vfghc.com
 a.vfgtg.com
 a1451.casalemedia.com
 a2nn5eri7ce.com
+a757aa9cf4.04c7739392.com
 a9db0668ca.c9a2795c07.com
 aaqiycetqwx.com
 aax-us-iad.amazon.com
@@ -645,6 +653,7 @@ cdn.pbstck.com
 cdn.pdst.fm
 cdn.performit.xyz
 cdn.permutive.app
+cdn.pixfuture.com
 cdn.pncloudfl.com
 cdn.privacy-mgmt.com
 cdn.run-syndicate.com.fpbns.net
@@ -998,6 +1007,7 @@ e-fallback.pa.highwebmedia.com
 e-prod-alb-s001-02-us-east-1.adzerk.net
 e.cdnwidget.com
 e1f95201b19594.site
+e484f19499.20f555d506.com
 e67repidwnfu7gcha.com
 earneydisti.fun
 earningserie.co
@@ -2096,6 +2106,7 @@ optnx.com
 org-secured.com
 organicmajor.com
 origin-analytics-prod.production.braintree-api.com
+orquideassp.com
 ortrun-adi.com
 orwoot.xyz
 osoltusuy.icu
@@ -2186,6 +2197,7 @@ pips.taboola.com
 pisism.com
 pitchedfurs.com
 pix.pub
+pixfuture.com
 pjatr.com
 pl.allsportsflix.top
 pl.vizury.com
@@ -2253,6 +2265,7 @@ ppnllc.com
 prd-collector-anon.ex.co
 prebid-eu.creativecdn.com
 prebid-match.dotomi.com
+prebidserver.pixfuture.com
 preciouspawprintsjewelry.com
 preeditpastes.website
 premiumvertising.com
@@ -2550,6 +2563,7 @@ sentry-public.stripchat.com
 sentry.io
 sentry.stripchat.com
 serialwarning.com
+served-by.pixfuture.com
 service.idsync.analytics.yahoo.com
 serving-sys.com
 setjewel.com
@@ -2586,6 +2600,7 @@ shukriya90.com
 sickmakes.com
 sift.com
 siftforresults.com
+signal-segments.s-onetag.com
 sillinessinterfere.com
 simpledatings.life
 simplewebanalysis.com
@@ -2800,6 +2815,7 @@ tag.bouncex.net
 tag.idsync.analytics.yahoo.com
 tagdatax.com
 taghaugh.com
+tags.orquideassp.com
 take-tesla.com
 takeyourfreetime.com
 tanyoanseamy.cam
@@ -3223,6 +3239,7 @@ web.usebutton.com
 websitesreviewer.com
 websocket.stripchat.com
 wedgeenclosed.com
+weednewspro.com
 weenymachinations.com
 weepingpretext.com
 wellgroomedhydrant.com
