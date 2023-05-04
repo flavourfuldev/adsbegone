@@ -646,6 +646,7 @@ cdn.itskiddoan.club
 cdn.javvin.me
 cdn.judge.me
 cdn.knightlab.com
+cdn.l1vec4ms.com
 cdn.liveply.me
 cdn.optkit.com
 cdn.otnolatrnup.com
@@ -728,6 +729,7 @@ cipledecline.buzz
 civicscience.com
 cizykytha.com
 cjvdfw.com
+ck-ie.com
 cl.istripper.com
 claim-x2.livea
 clarity.ms
@@ -2694,6 +2696,7 @@ ss57.litvp.com
 ssl.rncdn5.com
 ssl.vizury.com
 ssp-sync.criteo.com
+ssp.disqus.com
 ssum-sec.casalemedia.com.cdn.cloudflare.net
 st.chatango.com
 st.stripcdn.com
@@ -3111,6 +3114,7 @@ urbangardenerclub.com
 urlhausa.com
 us-east-eb2.3lift.com
 us-vip001.taboola.com
+us.ck-ie.com
 us.com
 us.news24.media
 us.pornogram.tv
