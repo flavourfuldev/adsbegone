@@ -657,6 +657,7 @@ cdn.permutive.app
 cdn.pixfuture.com
 cdn.pncloudfl.com
 cdn.privacy-mgmt.com
+cdn.pubfuture-ad.com
 cdn.run-syndicate.com.fpbns.net
 cdn.runative-syndicate.com
 cdn.runative-syndicate.com.fpbns.net
@@ -1574,6 +1575,7 @@ iosmonitoring.com
 iosuppu.com
 ip-api.com
 ip.affiliate.dmm.com
+ip2geo.pubfuture-ad.com
 iphonesubmissions.apple.com
 ipify.org
 iponweb.net
@@ -2328,6 +2330,7 @@ ptgncdn.com
 ptlwmstc.com
 ptouber.com
 pubdream.com
+pubfuture-ad.com
 publir.com
 publish.vuukle.com
 publisher-media.wibbitz.com
