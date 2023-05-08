@@ -140,6 +140,7 @@ admjmp.com
 admozartxml.com
 adobe.io
 adocean.pl
+adorama.us-1.evergage.com
 adpmbexo.com
 adpmbtj.com
 adptracker.com
@@ -620,6 +621,7 @@ cbsd.va1.vip.prod.criteo.com
 cc3001.dmm.co.jp
 ccwcufflinks.com
 cdj.dap.dmm.co.jp
+cdn-api.swirlb.com
 cdn-camshq-info.b-cdn.net
 cdn-fc.com
 cdn-settings.appsflyersdk.com.cdn.cloudflare.net
@@ -636,6 +638,7 @@ cdn.display.io
 cdn.eniqdix.icu
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
+cdn.evgnet.com
 cdn.ex.co
 cdn.exoticads.com
 cdn.fluidplayer.com
@@ -2788,6 +2791,7 @@ sv.rkdms.com
 swedishandmade.com
 sweetwater.com
 swimfishi.com
+swirlb.com
 sx.lxqwed.top
 syenitetatler.tech
 sync-jp.im-apps.net
@@ -3115,6 +3119,7 @@ uptimecdn.com
 upvotecrew.com
 urbangardenerclub.com
 urlhausa.com
+us-1.evergage.com
 us-east-eb2.3lift.com
 us-vip001.taboola.com
 us.ck-ie.com
@@ -3352,6 +3357,7 @@ www.siftforresults.com
 www.simplistic-potato.pro
 www.sjwoe.com
 www.stilyoapps.com
+www.swirlb.com
 www.targetingpartner.com
 www.terk.nl
 www.tqmibkqlwqdysi.com
