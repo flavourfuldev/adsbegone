@@ -443,6 +443,7 @@ betus.com
 betus.com.pa
 betuscdn.com
 beveledcorkir.com
+bf.contentsquare.net
 bf98738ejy.bf.dynatrace.com
 bff-api.automizely.com
 bg4nxu2u5t.com
@@ -569,6 +570,8 @@ bv.viehviw.xyz
 bz17h.xyz
 c-crypto.me
 c.adsco.re
+c.bf.contentsquare.com
+c.bf.contentsquare.net
 c.contentsquare.net
 c.disquscdn.com
 c.ptgncdn.com
@@ -642,6 +645,7 @@ cdn.evgnet.com
 cdn.ex.co
 cdn.exoticads.com
 cdn.fluidplayer.com
+cdn.friends-with-benefits.com
 cdn.getblueshift.com
 cdn.granify.com
 cdn.id5-sync.com
@@ -798,6 +802,7 @@ comet.sc-apps.com
 comet.stripchat.com
 cometmaster.com
 commentsengine.com
+commentsmodule.com
 commercialvalue.org
 compressware.in
 conditionwildest.com
@@ -1021,6 +1026,8 @@ earphonesvehicleexploded.com
 eavailand.com
 eavesdroppingsickleemotionally.com
 eb.proper.io
+ebaypay-app.quantummetric.com
+ebaypay-sync.quantummetric.com
 ebuyibj.xyz
 eckardtmail.dk
 ecommercevmconsultancy.com
@@ -1045,6 +1052,7 @@ eighes.com
 eiryabba.com
 ejcet5y9ag.com
 elainegill.com
+elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com
 elb.myaffiliates.com
 elfshipfish.casa
 elizaguarapo.com
@@ -1194,6 +1202,7 @@ freesexgame.com
 freshmarketer.com
 freychang.fun
 fri4esianewheywr90itrage.com
+friends-with-benefits.com
 fstats.xyz
 ftte.fun
 ftte.xyz
@@ -1396,6 +1405,7 @@ herokudns.com
 herwisegim.fun
 hetapus.com
 hgrtb.com
+hhbypdoecp.com
 hhkld.com
 hicloud.com
 high-prizebox1.life
@@ -1696,6 +1706,7 @@ ktwzvq.com
 ku2d3a7pa8mdi.com
 kufferfilm.dk
 kyliebrandphotography.com
+l.contentsquare.net
 l1vec4ms.com
 l2.io
 la3c05lr3o.com
@@ -1703,6 +1714,7 @@ laced-jewelry.com
 lander-cdn.ashleymadison.com
 lassampy.com
 laudypauty.com
+launcher.spot.im
 lb.eu-1-id5-sync.com
 leadid.com
 leaked-video.live
@@ -1824,6 +1836,7 @@ makerangerdistinct.com
 malwraebytes.com
 manageintenselyprecisethefile.vip
 mangelobsolden.cam
+marazma.com
 market-hero.com
 marketingcloudapis.com
 markipli.com
@@ -1978,6 +1991,7 @@ nbcuni.demdex.net
 nebwvbpelobi.com
 needle.com
 negyuk.com
+neighborhoodsluts.com
 nerd4sure.com
 nereserv.com
 nestledmph.com
@@ -2230,6 +2244,7 @@ popcash.net
 popmonetizer.net
 popnc.com
 poprtb.com
+poprtbcom.xml.ak-is2.net
 popthecoupon.com
 porn.dreamhosters.com
 porn6video.us
@@ -2336,6 +2351,7 @@ pubdream.com
 pubfuture-ad.com
 publir.com
 publish.vuukle.com
+publisher-assets.spot.im
 publisher-media.wibbitz.com
 pubmatic.com
 pubmine.com
@@ -2717,6 +2733,7 @@ stat.i3.dmm.com
 static-assets.highwebmedia.com
 static-cdn.ashleymadison.com
 static-cdn.hotjar.com
+static-cdn.spot.im
 static-cdn.stripst.com
 static-doubleclick-net.l.google.com
 static-forms.klaviyo.com
@@ -2812,6 +2829,7 @@ t.avod.link
 t.bbwafx.com
 t.beop.io
 t.crdefault.link
+t.neighborhoodsluts.com
 t.reallifecam.com
 t.urlhausa.com
 t4.goldensevenseas.net
@@ -3017,6 +3035,7 @@ trk.klclick3.com
 trk.whisursand.com
 trk10.com
 trk2vpn.xyz
+trkapi.impact.com
 trkbc.com
 trkpls3.com
 trkthat5.com
