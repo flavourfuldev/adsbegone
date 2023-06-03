@@ -160,6 +160,7 @@ adtarget.com.tr
 adtilt.com
 adtival.network
 adtng.com
+adtonos.com
 adtrue24.com
 adultnetworksc.com
 adulttime.com
@@ -267,7 +268,9 @@ app-department.report
 app-measurement.com
 app-measurement.com/sdk-exp
 app-stream.net
+app.audiopulsar.com
 app.govee.com
+app.rubio.ai
 app.store-repair.online
 app.temu.com
 app2.mkaff.com
@@ -320,6 +323,8 @@ au79nt5wic4x.com
 audacitydipping.com
 audience.xml.ppcmate.com
 audiencedata.im-apps.net
+audio.ad
+audiopulsar.com
 auteboon.net
 autodeskst.com
 automizely-analytics.com
@@ -650,6 +655,7 @@ cdn.codeblackbelt.com
 cdn.cohesionapps.com
 cdn.display.io
 cdn.eniqdix.icu
+cdn.enlistly.com
 cdn.eplayassets.com
 cdn.eplayassets.com.sds.rncdn7.com
 cdn.evgnet.com
@@ -668,6 +674,7 @@ cdn.l1vec4ms.com
 cdn.liveply.me
 cdn.optkit.com
 cdn.otnolatrnup.com
+cdn.pbbl.co
 cdn.pbstck.com
 cdn.pdst.fm
 cdn.performit.xyz
@@ -884,6 +891,7 @@ crysourl.com
 cs.boost-next.co.jp
 cs.waqool.com
 csnstores.com
+csogroll.com
 csqtrk.net
 csync.loopme.me
 cteriodrela.biz
@@ -915,6 +923,7 @@ data.dianomi.com
 data.goasrv.com
 data.rdtk.io
 data.schemaapp.com
+data.stbuttons.click
 databasegdriveplayer.xyz
 datadoghq-browser-agent.com
 date2night.b-cdn.net
@@ -1026,6 +1035,7 @@ dunbed.xyz
 duplicatepowerquay.com
 dvypar.com
 dyn.eplay.com
+dynamic.va1.vip.prod.criteo.com
 dynatrace.com
 dynspt.com
 dynu.com
@@ -1047,6 +1057,7 @@ eavesdroppingsickleemotionally.com
 eb.proper.io
 ebaypay-app.quantummetric.com
 ebaypay-sync.quantummetric.com
+ebaypay.quantummetric.com
 ebuyibj.xyz
 eckardtmail.dk
 ecommercevmconsultancy.com
@@ -1600,6 +1611,7 @@ inspectorstrongerpill.com
 install-network.com
 instant-flirt-site4.com
 instantcheckmate.com
+instreamatic.com
 intake-analytics.wikimedia.org
 intake.pbstck.com
 intellipopup.com
@@ -2268,6 +2280,7 @@ pl.vizury.com
 plainwrk.name
 plantationthrillednoncommittal.com
 plarium.com
+play.adtonos.com
 player.ex.co
 player.propervideo.io
 plywoodenchant.com
@@ -2276,6 +2289,7 @@ png2jpegconvert.com
 pnstat.com
 pntra.com
 pntrs.com
+podiums.link
 podosupsurge.com
 podregarddomicile.com
 pogothere.xyz
@@ -2348,6 +2362,7 @@ privacytrck.com
 privatejetsflightus.com
 pro.ip-api.com
 prod.cloud.ogury.io
+prod.criteo.com
 prod.disqus.map.fastlylb.net
 prod.pinterest.global.map.fastly.net
 producingdestroyer.com
@@ -2376,6 +2391,7 @@ providentsopport.site
 provocativeprivate.com
 prpops.com
 prprocess.com
+prreqcroab.icu
 pscp.tv
 pssy.xyz
 psychologywoman.com
@@ -2510,6 +2526,7 @@ riverpush.com
 riversedge-photography.com
 rivertraffic.com
 rkdms.com
+rl.quantummetric.com
 rncdn5.com
 roaming.officeapps.live.com
 rob3rt.online
@@ -2541,6 +2558,7 @@ rtbrennab.com
 rtbrvdirect.com
 rtxt.net
 rubbanlogistics.com
+rubio.ai
 rubylife.go2cloud.org
 ruckletawpy.com
 ruinedhang.com
@@ -2818,6 +2836,7 @@ stats.postgen.com
 stats.systems
 statsy.net
 staubynemporium.com
+stbuttons.click
 steakeffort.com
 steepto.com
 steinfqwe6782beck.com
@@ -3230,11 +3249,14 @@ v-gals.com
 v.dynspt.com
 v3.fstats.xyz
 va-edge.sc.omtrdc.net
+va1.vip.prod.criteo.com
 vad-bid.adsrvr.org
 vaguesweet.com
 varietiesplea.com
 vasgenerete.site
 vasstycom.com
+vast.adtonos.com
+vast.audio.ad
 vast.yomeno.xyz
 vcdn.tsyndicate.com
 vdg-gourmandises.com
@@ -3281,6 +3303,7 @@ viekjol.icu
 viixyr.com
 violentthinner.com
 violondeaf.guru
+vip.prod.criteo.com
 vip0x04f.ssl.rncdn5.com
 vip0x055.ssl.rncdn5.com
 viralinstantly.com
@@ -3349,6 +3372,7 @@ wibbitz.com
 widaimty.com
 wideorganiz.xyz
 widezealconstant.com
+widgets.automizely.com
 widgets.guppy.live
 widgets.zemanta.com
 wiki-xporn.com
@@ -3463,6 +3487,7 @@ x2space.com
 x2spacex.io
 x2tate.net
 x2tesla.com
+x3.instreamatic.com
 xc.shigl.top
 xcafe.com
 xcelebhub18.com
