@@ -149,6 +149,8 @@ adpushup-d.openx.net
 ads.pinterest.com
 ads4pc.com
 adsco.re
+adsdk.microsoft.com
+adsdkprod.afd.azureedge.net
 adsessionserv.com
 adskeeper.co.uk
 adskeeper.com
@@ -177,6 +179,7 @@ aeeg5idiuenbi7erger.com
 aerografiatcarbonell.com
 afcb759f06.com
 afcnuchxgo.com
+afd.azureedge.net
 affiliate-program.amazon.com
 affiliateland.io
 afflat3b2.com
@@ -1163,6 +1166,7 @@ extyoneplus-2.com
 eycrossible.fun
 eyebrowscrambledlater.com
 ezanga.com
+fabrick.agkn.com
 facebook-program.com
 fadegranted.com
 fafugathu.com
@@ -1799,6 +1803,7 @@ live.primis.tech
 livechatinc.com
 liveclicker.net
 livecrystalkarma.com
+livefuncams.net
 liveintent.com
 livepixel-production.bln.liveintent.com
 liveply.me
@@ -1990,6 +1995,7 @@ muchadlz.com
 muffinyourself.com
 muffn.io
 mug.va1.vip.prod.criteo.co
+mug.va1.vip.prod.criteo.com
 mulanmebel.com
 munchenviableski.com
 musk4u.com
@@ -2676,6 +2682,7 @@ sfultraight.xyz
 share-online.biz
 share.getcashto.com
 shareasale.com
+sharedating.com
 sharethrough.com
 sheets-proxy.knightlab.com
 shein.com
