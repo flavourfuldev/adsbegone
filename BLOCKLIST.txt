@@ -23,6 +23,7 @@
 2023musk.com
 20ethereum.org
 20f555d506.com
+20izqvowi.com
 2375i1164.xyz
 23tesla.com
 23tesla.net
@@ -259,6 +260,7 @@ api-protected.protoawegw.com
 api.airfind.com
 api.ashleymadison.com
 api.automizely.com
+api.bazaarvoice.com
 api.getblueshift.com
 api.intentiq.com
 api.livechatinc.com
@@ -293,6 +295,7 @@ apple.com-login.org
 applesforcleaning.net
 applogy.com
 applovin.com
+apps.bazaarvoice.com
 apps.media-lab.ai
 apps.mp3sz.fun
 arbourrenewal.com
@@ -357,6 +360,7 @@ aws-fr-sync.bidswitch.net
 aws-fr.bidswitch.net
 ay.delivery
 ay.gy
+az.sitelabweb.com
 b-hls-01.doppiocdn.com
 b-hls-01.stripst.com
 b-hls-02.doppiocdn.com
@@ -615,6 +619,7 @@ c9a2795c07.com
 c9d9c41eb7.dcf0698a21.com
 cabnnr.com
 cam-content.com
+camapex.com
 cams.com
 camschat.net
 camshq.info
@@ -835,6 +840,7 @@ collector.plarium.com
 collenwhr.website
 colortech-ec.com
 colossusssp.com
+colrep.sitelabweb.com
 com-com-mobi.com
 comasoiling.casa
 comet.sc-apps.com
@@ -845,6 +851,7 @@ commentsmodule.com
 commercialvalue.org
 compressware.in
 conditionwildest.com
+confirmit.com
 congressaffrayghosts.com
 connexity.net
 consensu.org
@@ -996,6 +1003,7 @@ dianomi.com
 dieselhircine.com
 digital-cloud.medallia.com
 digitaldavethedj.com
+digitalfeedback.us.confirmit.com
 digstatic.dmm.com
 dilemmatryingless.com
 direct-link.net
@@ -1632,6 +1640,7 @@ inpage-push.com
 inpagepush.com
 inrhyhorntor.com
 insanityoh.com
+inside-graph.com
 inspectorstrongerpill.com
 install-network.com
 instant-flirt-site4.com
@@ -1649,6 +1658,7 @@ interstitial-07.com
 intimateshark.com
 intnotif.club
 intorterraon.com
+inventhigh.net
 ios-protection.com
 iosads4-7.adcolony.com
 iosmonitoring.com
@@ -2085,6 +2095,7 @@ nestledmph.com
 netdna-cdn.com
 netpatas.com
 netsecmodel.com
+network-a.bazaarvoice.com
 network-internet.com
 neverbe.xyz
 new-collect.albacross.com
@@ -2377,6 +2388,7 @@ possessionaddictedflight.com
 postgen.com
 potentiallythrobbinggrotesque.com
 pottercosign.com
+powcams.com
 poweredby.jads.co
 poweredbyliquidfire.mobi
 powerlinks.com
@@ -2480,6 +2492,7 @@ q-solutions.dk
 q1.us-est.gh-g.v1.akaquill.net
 qggypucwewn.com
 qgxbluhsgad.com
+qpttech.com
 qualtrics.com
 quantcast.com
 quantcast.mgr.consensu.org
@@ -2703,6 +2716,7 @@ serve-servee.com
 served-by.pixfuture.com
 service.idsync.analytics.yahoo.com
 serving-sys.com
+session.sitelabweb.com
 setjewel.com
 settings.crashlytics.com
 sexcamchats.com
@@ -2748,6 +2762,7 @@ simplistic-potato.pro
 sis3.online
 site-azp.slgnt.eu
 siteintercept.qualtrics.com
+sitelabweb.com
 sitelock.com
 sitelockcdn.net
 siteoid.com
@@ -2979,6 +2994,7 @@ taghaugh.com
 tags.orquideassp.com
 take-tesla.com
 takeyourfreetime.com
+talkarmy.com
 tanyoanseamy.cam
 tapatalk-cdn.com
 tapecontent.net
@@ -3039,6 +3055,7 @@ teslause.net
 teslax2.site
 teslayear.com
 test.cmp.quantcast.com
+tetech.store
 texturecreations.com
 tfosrv.com
 tgp1.bbnetwork1.com
@@ -3286,11 +3303,14 @@ us-east-rubicon-rtb.quantserve.com
 us-vip001.taboola.com
 us.ck-ie.com
 us.com
+us.confirmit.com
 us.news24.media
 us.pornogram.tv
 us.pushnow.net
 us.shein.com
 us.static.reallifecam.com
+us3-cdn.inside-graph.com
+us3-track.inside-graph.com
 usdmusk.org
 use-secure.com
 usebutton.com
