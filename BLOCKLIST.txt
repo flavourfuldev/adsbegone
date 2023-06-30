@@ -264,6 +264,7 @@ api.bazaarvoice.com
 api.getblueshift.com
 api.intentiq.com
 api.livechatinc.com
+api.narrativ.com
 api.notification.dmm.co.jp
 api.promotions.skype.com
 api.schemaapp.com
@@ -610,6 +611,7 @@ c.stripst.com
 c.videoo.tv
 c0.pubmine.com
 c1vk.online
+c2.piano.io
 c2popadsad.popads.netdna-cdn.com
 c2shb.ssp.yahoo.com
 c3t-system-err.club
@@ -700,6 +702,7 @@ cdn.pbstck.com
 cdn.pdst.fm
 cdn.performit.xyz
 cdn.permutive.app
+cdn.piano.io
 cdn.pixfuture.com
 cdn.pncloudfl.com
 cdn.privacy-mgmt.com
@@ -761,6 +764,7 @@ chatigabe.com
 chatra-usercontent.com
 chatra.io
 chaturbate.com
+chch-tv3.sitey.me
 check.analytics.rlcdn.com
 checkappexec.microsoft.com
 checkstableupgradelinks.info
@@ -1140,6 +1144,7 @@ entrance.flirt4free.com
 entsnotesq.fun
 envelopeheadache.com
 eorner.com
+epicomg.com
 eplay.com
 eplayassets.com
 epormer.com
@@ -1265,6 +1270,8 @@ franklybundlecarver.com
 frce.nvilldia.site
 freecamsfan.com
 freedomworks.org
+freegirlx2.live
+freeporn99.net
 freesexgame.com
 freshmarketer.com
 freychang.fun
@@ -2023,6 +2030,7 @@ movcpm.com
 movies.iatout.fr
 movirastreamento.com
 mp3sz.fun
+mqtt-us-2.meross.com
 ms-bidder-bid.prod.cloud.ogury.io
 ms4.applovin.com
 msckey.com
@@ -2312,6 +2320,7 @@ photographicconstablelanded.com
 photographybyaame.com
 phychashowi.com
 pianistrefutationgoose.com
+piano.io
 pics.dmm.co.jp
 pics.pornfhd.com
 pics.r18.com
@@ -2767,6 +2776,7 @@ sitelock.com
 sitelockcdn.net
 siteoid.com
 sitewithg.com
+sitey.me
 sitzbeton.de
 sivian-ebe.com
 sizeilksohs.com
