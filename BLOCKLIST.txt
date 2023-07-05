@@ -1173,7 +1173,7 @@ equusdesigns.net
 ero-advertising.com
 erothots.co
 ertyvaluation.lol
-Essaytags.com
+essaytags.com
 essmithfr.club
 ether2x.pro
 ethstake.pro
@@ -1242,6 +1242,7 @@ fedex.tt.omtrdc.net
 feed-xml.com
 feedmob.com
 feelsjet.com
+fegsbatak.uno
 fephidube.com
 fertilitycoachjenn.com
 ff-02.com
@@ -1440,7 +1441,6 @@ goop.com
 gosbuy.com
 gosearches.net
 got-to-be.in
-gramm-arly.
 gramm-arly.com
 grammalry.org
 grammarly.harpsympitar.com
@@ -1581,7 +1581,6 @@ ht-cdn2.contentabc.com
 ht.ly
 htlb.casalemedia.com.cdn.cloudflare.net
 httplogserver-lb.global.unified-prod.sharethis.net
-https://app-measurement.com/sdk-exp
 huaweisafedns.com
 hubnsfw.com
 hubsauce.com
@@ -2585,8 +2584,6 @@ recombee.com
 recombee.us
 record.revmasters.com
 red12flyw2.site
-reddit.com/gold
-reddit.com/premium
 redditpagematrics.com
 reddlink.tech
 reddownload.xyz
@@ -2689,10 +2686,22 @@ s1-eu-cname.adformnet.akadns.net
 s1.fwmrm.net
 s1.growadvertising.com
 s10.histats.com.web.cdn.anycast.me
+s11.trafficdeposit.com
+s12.trafficdeposit.com
+s14.trafficdeposit.com
+s15.trafficdeposit.com
+s16.trafficdeposit.com
+s17.trafficdeposit.com
+s19.trafficdeposit.com
+s21.trafficdeposit.com
+s22.trafficdeposit.com
+s23.trafficdeposit.com
 s24.chatango.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s4.cnzz.com
+s4.trafficdeposit.com
+s7.trafficdeposit.com
 sacredperpetratorbasketball.com
 safebrowsingalert.com
 safestgatetocontent.com
@@ -2710,6 +2719,7 @@ sapnkbang.com
 saschamallon.com
 sasinsetuid.com
 saumeechoa.com
+saveconnecticutave.org
 saworbpox.com
 sb-inv1.com
 Sb4you1.com
@@ -2821,6 +2831,7 @@ sivian-ebe.com
 sizeilksohs.com
 sjv.io
 sjwoe.com
+skadsdkless.appsflyer.com
 skimlinks.monetizer101.com
 skipperproxy.com
 skypornx2.us
@@ -3457,6 +3468,7 @@ visitor-services.bold360.com
 visitstats.com
 vitalikusdt.com
 vizury.com
+vkiapcavnoc.com
 vlitag.com
 vmp.boldchat.com
 voi.id
@@ -3496,6 +3508,7 @@ weather.psg.nexstardigital.net
 weaveradrenaline.com
 web-trackers.com
 web.usebutton.com
+websitebanger.store
 websitesreviewer.com
 websocket.stripchat.com
 wedgeenclosed.com
@@ -3702,6 +3715,7 @@ your-notice.com
 yourbestvideoplayers.work
 yourcentralsoftwarevideos.info
 yourwebbars.com
+yps.link
 yqmxfz.com
 ytube2dl.com
 ytvideos.club
