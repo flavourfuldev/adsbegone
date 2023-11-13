@@ -19,6 +19,7 @@
 1616439924.rsc.cdn77.org
 1672584054.rsc.cdn77.org
 1727730397.rsc.cdn77.org
+1798304.store
 18cyber-porn.live
 18teentn.live
 18videohd.live
@@ -308,6 +309,7 @@ api.bloomit.online
 api.getblueshift.com
 api.h2.he7ll.com
 api.heylink.com
+api.iadvize.com
 api.intentiq.com
 api.livechatinc.com
 api.narrativ.com
@@ -655,6 +657,7 @@ bounceexchange.com
 bouncex.net
 bourremokihi.com
 brainlyads.com
+brandmetrics.com
 brave.com
 braze.com
 brazzersnetwork.com
@@ -690,6 +693,7 @@ butical-alecast.icu
 buypass.com
 bv.viehviw.xyz
 bz17h.xyz
+bztld4-launches.appsflyersdk.com
 c-crypto.me
 c-fallback.pa.highwebmedia.com
 c.adsco.re
@@ -971,6 +975,7 @@ coinlistx2.com
 coinlistx2.net
 colemanhomecenter.com
 collector-hpn.ghostery.net
+collector.brandmetrics.com
 collector.plarium.com
 collenwhr.website
 colortech-ec.com
@@ -1422,6 +1427,7 @@ fap18.net
 fapgood.com
 faphouse.com
 farrivederev.pro
+fastly-tls12-insights-collector.newrelic.com
 fastxxxpicssearch.com
 faultspiano.com
 fcgxidqwcx.xyz
@@ -1551,6 +1557,7 @@ gandmotivatin.info
 gapscult.com
 gateway-jerkmate-com.b-cdn.net
 gateway.jerkmate.com
+gateway.jerkmate.fun
 gateway.jerkmate.net
 gaufaine.com
 gcdn.co
@@ -1876,6 +1883,7 @@ i004.imx.to
 iad02.search.spotxchange.com
 iadcontent.apple.com
 iadsdk.apple.com
+iadvize.com
 iatout.fr
 ic.autopilotapp.com
 icalendar.datingtopgirls.com
@@ -2031,6 +2039,7 @@ jellyfish-app-fad9u.ondigitalocean.app
 jennifermrodriguez.com
 jensgels.com
 jerkmate.com
+jerkmate.fun
 jerkmate.net
 jerkofftocelebs.com
 jessieemys.com
@@ -2425,6 +2434,7 @@ mktoedge.com
 mmcdn.com
 mnason-hec.com
 mobi-com-com.com
+mobile-collector.newrelic.com.cdn.cloudflare.net
 mobile.istripper.com
 mobilegamerstats.com
 mobiletelemetry.ebay.com
@@ -2488,6 +2498,7 @@ my-local-date.com
 my-local-whore.tumblr.com
 my-topdate-here.life
 my-wan.de
+my.getadmiral.com
 my.hellobar.com
 my.timemq.com
 my.toruftuiov.com
@@ -2555,6 +2566,7 @@ newpornstar.live
 newporntv.me
 newporntv2.live
 newporntv3.live
+newrelic.com
 news24.media
 newsbreak.com
 newsexhd.live
@@ -3111,6 +3123,7 @@ ptwmstcnt.com
 pub.doubleverify.com.cdn.cloudflare.net
 pubdream.com
 pubfuture-ad.com
+public-graylog.iadvize.com
 public-prod-dailymotion-addirector.dmxleo.com
 publir.com
 publish.vuukle.com
@@ -3276,6 +3289,7 @@ roujonoa.net
 route.g-sponsored-results.com
 routemob.com
 router.infolinks.com
+royaltykingdesigns.com
 rqfedjzveel.com
 rqhere2.com
 rs.fullstory.com
@@ -3795,6 +3809,7 @@ tc888group.com
 teacupsandwhimsies.com
 teambrraap.com
 teamprodrcongo.com
+tearfulglass.com
 technicalityplayground.com
 technorati.com
 technoratimedia.com
