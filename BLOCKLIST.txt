@@ -59,6 +59,7 @@
 3wdjv.xyz
 3xdb.com
 4.adsco.re
+40daysforlife.com
 413dfe9f11.com
 4880ccc3e8.com
 493b98cce8bc1a2dd.com
@@ -1296,6 +1297,7 @@ edge-hls.doppiocdn.net
 edge-hls.doppiocdn.org
 edge-player.wirewax.com
 edge-va6.demdex.net
+edge.ads.twitch.tv
 edge.fullstory.com
 edge11-lax.live.mmcdn.com
 edge14-ash.live.mmcdn.com
@@ -1566,6 +1568,7 @@ galleryn13.vcmdiawe.com
 galleryn3.vcmdiawe.com
 galotop1.com
 gamehappylife.top
+gameinfinitus.com
 gamesrevenue.com
 gamingadult.com
 gammamega.com
