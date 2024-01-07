@@ -66,6 +66,7 @@
 4mhyr.com
 5.at.atwola.com
 51.la
+51chelsea.com
 52b6952e14.9714ddef1d.com
 552f323934.f5e03754b3.com
 558f2a6a7b.com
@@ -173,6 +174,7 @@ admaticcdn.b-cdn.net
 admedit.net
 admin2.cursoshas.com
 admin2.diariodavidasaudavel.com.br
+admin4.ptbas3.51chelsea.com
 admiral.amlg.io
 admjmp.com
 admozartxml.com
@@ -3161,6 +3163,7 @@ pt.cdctwm.com
 pt.pwmctl.com
 pt.wmptctl.com
 ptauxofi.net
+ptbas3.51chelsea.com
 ptgncdn.com
 ptlwmstc.com
 ptosrd.com
