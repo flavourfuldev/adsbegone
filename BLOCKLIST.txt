@@ -1262,6 +1262,7 @@ disquscdn.com
 distincttables.com
 distributeoldfashionedrung.com
 districtprovocativeforceful.com
+ditytech.com
 dlfilesnow.xyz
 dmbooks.it
 dmm.co.jp
@@ -1538,6 +1539,7 @@ figensahin.com
 fikri-ayo.com
 file1.npage.de
 file2share.co
+filter.sedodna.com
 firearmtire.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
@@ -2011,6 +2013,7 @@ iadcontent.apple.com
 iadsdk.apple.com
 iadvize.com
 iamfy.co
+iapetus.bid
 iatout.fr
 ic.autopilotapp.com
 icalendar.datingtopgirls.com
@@ -3642,6 +3645,7 @@ securelyaccessdevice.com
 securepubads46.g.doubleclick.net
 secureservercdn.net
 security-mall.eufylife.com
+sedodna.com
 seekingtech.com
 sefemedical.com
 segment.io
@@ -4260,6 +4264,7 @@ trac.i3.dmm.co.jp
 trac.i3.r18.com
 trace.svc.ui.com
 tracepath.cc
+track.iapetus.bid
 track.kinetiksoft.com
 track.link-tds.com
 track.lobby-x.eu
@@ -4514,6 +4519,7 @@ vidazoo.com
 vidcdn.info
 vidcrunch.com
 video-iad3-2.xx.fbcdn.net
+video-one.com
 video-serve.com
 video.beopinion.com
 video.ktkjmp.com
@@ -4719,6 +4725,7 @@ wunderkind.co
 wuv-media.de
 wvhba6470p.com
 ww1.educ.top
+ww1.video-one.com
 ww16.junovalentina.store
 www-alv.google-analytics.com
 www-googletagmanager.l.google.com
