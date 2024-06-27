@@ -611,6 +611,7 @@ biddr.brealtime.com.cdn.cloudflare.net
 bidforclicks.com
 bidgear.com
 bids.proper.io
+bidsmatik.com
 bidswitch.net
 bigbluewoodworks.com
 bigvideo.net
@@ -973,6 +974,7 @@ chrisbrooksrealtor.com
 chrisotten.com
 chsrkred.com
 chtbl.com
+cinemablind.com
 cinepedia.org
 cipledecline.buzz
 circuitsathome.com
@@ -2999,6 +3001,7 @@ onelink.me
 onetag.com
 onetouch7.info
 onetouch8.info
+onfiredate.com
 onionritualjinx.com
 online-metrix.net
 onlinehome.us
