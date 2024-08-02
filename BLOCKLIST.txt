@@ -346,6 +346,7 @@ anyhentai.com
 ap3prod.com
 aphycolourses.info
 api-lr.adbecrsl.com
+api-pixel.datadojo.ai
 api-protected.protoawegw.com
 api.airfind.com
 api.ashleymadison.com
@@ -418,6 +419,7 @@ assets.digstatic.dmm.com
 assets.emarsys.net
 assets.jimstatic.com
 assets.stripst.com
+assetscdn-wchat.eu.freshchat.com
 assoc-amazon.com
 assoc-na.associates-amazon.com
 assoc-redirect.amazon.com
@@ -603,6 +605,7 @@ betotodilea.com
 betus.com
 betus.com.pa
 betuscdn.com
+betwhale.ag
 beveledcorkir.com
 bf.contentsquare.net
 bf98738ejy.bf.dynatrace.com
@@ -1221,6 +1224,7 @@ data.schemaapp.com
 data.stbuttons.click
 databasegdriveplayer.xyz
 datadoghq-browser-agent.com
+datadojo.ai
 datamarketplace.net
 date.twistoire.com
 date2night.b-cdn.net
@@ -1245,8 +1249,10 @@ ddefa70ec0.com
 dditscdn.com
 ddlesswale.co
 dealmania.me
+deals.w.link
 dealspotr.com
 dealsvalid.com
+dealtikka.com
 dearestimmortality.com
 deccanherald.com
 decencyjessiebloom.com
@@ -1503,6 +1509,7 @@ ethstake.pro
 ethtesla.io
 ethupdate.pro
 etrecantformation.com
+eu.freshchat.com
 eu.freshpops.net
 eu.got-to-be.in
 eu.messenger-notify.digital
@@ -1649,6 +1656,7 @@ freedomworks.org
 freegirlx2.live
 freeporn99.net
 freesexgame.com
+freshchat.com
 freshenrubpan.com
 freshfunfit.com
 freshmarketer.com
@@ -2394,6 +2402,7 @@ layerfi.markets
 layerox.network
 laygal.com
 lb.eu-1-id5-sync.com
+lcolumnstoodthe.info
 lcx-embed.bambuser.com
 leaderapt.com
 leadid.com
@@ -2430,6 +2439,7 @@ lexih.com
 lg.provenpixel.com
 liadm.com
 liamdaniels.com
+libs.smartico.ai
 lidostake.market
 lifeoflein.com
 lifeslittlegraces.com
@@ -2477,6 +2487,7 @@ live-us-ny.primis.tech
 live.demand.supply
 live.mmcdn.com
 live.primis.tech
+live.viggames.com
 livechatinc.com
 liveclicker.net
 livecrystalkarma.com
@@ -2679,6 +2690,7 @@ microprokey.site
 microsoft.us
 microstrategy-gift.net
 midnightnosebleeddoorway.com
+miixxes.co.in
 mileagechronic.com
 miletrin.es
 milfforsex.com
@@ -2692,6 +2704,7 @@ mixcloth.com
 mixvocabulary.com
 mkaff.com
 mktoedge.com
+mlldrlujqg.com
 mmcdn.com
 mnason-hec.com
 mnaspm.com
@@ -2955,6 +2968,7 @@ nudevideo18.click
 nudexhub6.live
 nudexxx18.click
 nudity.org
+nutiipwkk.com
 nutriwestncahi.com
 nvdla.expleiwrqse.site
 nvidia.tt.omtrdc.net
@@ -3042,6 +3056,7 @@ openx.com
 openx.net
 openxcdn.net
 operarymishear.store
+opreseynatcreativei.com
 opsusps.com
 opticalhouse.groovesell.com
 opticalprogress.com
@@ -3535,6 +3550,7 @@ recombee.com
 recombee.us
 record.commissionkings.ag
 record.revmasters.com
+record.toponepartners.com
 red12flyw2.site
 red23.co
 red24.us
@@ -3908,6 +3924,7 @@ sluttymom18.click
 smart.link
 smarterhq.io
 smarthairypussy.com
+smartico.ai
 smartsecuredt.com
 smentbrads.co
 smokekingpowder.com
@@ -4369,6 +4386,7 @@ topfdeals.com
 topgirlsdating.com
 tophomeworkhelper.com
 topographyupdates.com
+toponepartners.com
 toppornss1.live
 tor-project.pro
 tor-project.xyz
@@ -4695,6 +4713,7 @@ vidporn18.info
 vids.viaplays.com
 viehviw.xyz
 viekjol.icu
+viggames.com
 viixyr.com
 violentthinner.com
 violondeaf.guru
@@ -4762,6 +4781,7 @@ waredscots.casa
 warfuck.nl
 warilyaggregation.com
 warriorplus.com
+was.betwhale.ag
 washedinmate.com
 wasoffspring.com
 wasp-182b.com
@@ -4876,6 +4896,7 @@ wvhba6470p.com
 ww1.educ.top
 ww1.video-one.com
 ww16.junovalentina.store
+wwa.betwhale.ag
 www-alv.google-analytics.com
 www-googletagmanager.l.google.com
 www.adtilt.com
