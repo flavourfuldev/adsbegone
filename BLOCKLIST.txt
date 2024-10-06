@@ -2133,6 +2133,7 @@ ic.autopilotapp.com
 icalendar.datingtopgirls.com
 icdns.net
 icetoot.me
+icij.org
 icoawhou.com
 icon2count.com
 iconfinder.com
@@ -3912,6 +3913,7 @@ sharvanthikaehealth.com
 sheaksesq.com
 sheets-proxy.knightlab.com
 shein.com
+shelbysapp.com
 shiba-now.com
 shibaelon22.net
 shield.sitelock.com
