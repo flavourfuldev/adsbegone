@@ -1099,6 +1099,7 @@ comasoiling.casa
 comet.sc-apps.com
 comet.stripchat.com
 cometmaster.com
+comicbasics.com
 commentsengine.com
 commentsmodule.com
 commercialvalue.org
@@ -1641,6 +1642,7 @@ ff-02.com
 ffoth.com
 fftf.xyz
 fhp.betus.com.pa
+fictionhorizon.com
 fidholz.ch
 fiefionfortes.casa
 fifozigry.com
@@ -2055,6 +2057,7 @@ highwebmedia-z-fallback.ably-realtime.com
 highwebmedia.com
 hillview-alpacas.com
 himado.com
+hiphopmakers.com
 hippiedanish.com
 hisperlylitexts.com
 histats.com
@@ -2537,6 +2540,7 @@ link-hub.net
 link-target.net
 link-tds.com
 link.circuitsathome.com
+link.hiphopmakers.com
 link.moneykc.com
 link.prevageskin.com
 link.theplatform.com
@@ -4330,6 +4334,7 @@ teambrraap.com
 teamprodrcongo.com
 tearfulglass.com
 techbomers.com
+techcrawlr.com
 technicalityplayground.com
 technorati.com
 technoratimedia.com
