@@ -313,6 +313,7 @@ altgetxio.com
 althnyyanggroup.com
 alukizeia.one
 alwarebytes-download.org
+alwayssecuredsearch.com
 amadates.com
 amateursdownunder.com
 amavalet.com
@@ -457,6 +458,7 @@ audiopulsar.com
 auditconsultmw.com
 auteboon.net
 autodeskst.com
+automac.it
 automizely-analytics.com
 automizely.com
 autopilotapp.com
@@ -760,6 +762,7 @@ britneyblog.online
 broomacknowledgedpinch.com
 bropress.com
 brotgut.com
+browse-privately.net
 browser-update.org
 browser.sentry-cdn.com
 brutishlylifevoicing.com
@@ -1834,6 +1837,8 @@ geruksom.net
 get-express-vpn.com
 get-express-vpn.online
 get-me-wow.xyz
+get.alwayssecuredsearch.com
+get.browse-privately.net
 get.murf.ai
 getadmiral.com
 getapo.com
