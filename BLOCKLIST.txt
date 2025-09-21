@@ -448,6 +448,7 @@ assertcom.de
 assets.digstatic.dmm.com
 assets.emarsys.net
 assets.jimstatic.com
+assets.rebelmouse.io
 assets.stripst.com
 assetscdn-wchat.eu.freshchat.com
 assoc-amazon.com
@@ -836,6 +837,7 @@ c1vk.online
 c2.piano.io
 c2popadsad.popads.netdna-cdn.com
 c2shb.ssp.yahoo.com
+c3.ai
 c3t-system-err.club
 c4caae4fe7.d7739252ca.com
 c6ba032a28.com
@@ -1090,6 +1092,7 @@ click.couponfollow.com
 click.expmediadirect1.com
 click.jadspro.live
 click.mediacpc.com
+click2fap.com
 clickadilla.com
 clickaine.com
 clickajobs.com
@@ -1098,6 +1101,7 @@ clickprofit.io
 clickprotects.com
 clicks.tyuwq.com
 clicksondelivery.com
+clickt2fap.com
 clickthruhost.com
 client.holavpninstaller.com
 clipbaby.live
@@ -1201,6 +1205,7 @@ cougarsforcubs.com
 couponchief.com
 couponfollow.com
 courageunderfirecandles.com
+courtreference.com
 cpi-offers.com
 cpmprofitablecontent.com
 cpu.userbenchmark.com
@@ -1907,6 +1912,7 @@ gejute.com
 gemini.yahoo.com
 gemius.pl
 genesisink.com
+genfinity.io
 geni.us
 genialsleptworldwide.com
 geo.privacymanager.io
@@ -3307,6 +3313,7 @@ ocsp.buypass.com
 ocsp.sectigo.com
 octaplajaggar.casa
 odfnxnzrmvxw.com
+ofbsujpuwhu.com
 offer.slgnt.eu
 offers-api.ghostery.net
 offers.kim
@@ -3873,6 +3880,7 @@ randemuscatellphotography.com
 rawclicks.club
 razdvabm.com
 razingvexable.store
+rbl.ms
 rbthre.work
 rcgexecsearch.com
 rcv.ixd.dmm.co.jp
@@ -3889,6 +3897,9 @@ realsrv.com
 realtime.pa.highwebmedia.com
 realtime.services.disqus.com
 rebecca.dowemeet.online
+rebelmouse.com
+rebelmouse.io
+rebelmouse.map.fastly.net
 receivinghelpdesk.com
 recombee.com
 recombee.us
@@ -3961,6 +3972,7 @@ riverhit.com
 riverpush.com
 riversedge-photography.com
 rivertraffic.com
+rjgfkghkgh.co.uk
 rkdms.com
 rkojnixareo.com
 rl.quantummetric.com
@@ -4725,6 +4737,7 @@ theuncensoredtraveler.com
 theunicornsofutopia.com
 thewearify.com
 theweekendracer.com
+theylied.ca
 thingrealtape.com
 thinkjodesigns.com
 thirdbasedating.com
@@ -5204,6 +5217,7 @@ voicefilm.com
 volta-digital.com
 voltarengel.com
 vooshagy.net
+votehayden.ca
 votreimc.com
 vox.finance
 voyeur-house.tv
