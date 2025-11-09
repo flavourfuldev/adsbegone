@@ -229,6 +229,7 @@ adsdkprod.afd.azureedge.net
 adsessionserv.com
 adskeeper.co.uk
 adskeeper.com
+adspsp.com
 adspyglass.com
 adsrvr.org
 adsymptotic.com
@@ -1039,6 +1040,7 @@ chargestimetablechuckled.com
 charita.redir.life
 charlena.solodate.life
 charlottewebvideo.com
+chartbeat.com
 chasterd.es
 chatango.com
 chatbro.com
@@ -3906,6 +3908,7 @@ r.crtrcr.com
 r.goaffmy.com
 r.pubdream.com
 r.trwl1.com
+r.watchcount.com
 r18.com
 racig15624.workers.dev
 radarconsultation.com
@@ -5307,6 +5310,7 @@ washingtontimes.com
 wasoffspring.com
 wasp-182b.com
 watch.redd.it
+watchcount.com
 watchwrestlingnetwork.in
 watv.org
 watyourcon.fun
