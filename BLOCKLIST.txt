@@ -434,6 +434,7 @@ apple.0676el9lskux.top
 apple.0g3wn9mr3cab.top
 apple.com-login.org
 applesforcleaning.net
+applink.im
 applogy.com
 applovin.com
 apps.bazaarvoice.com
@@ -2783,6 +2784,7 @@ knightlab.com
 knoji.com
 ko.gl
 kochava.com
+koiptv.com
 kolkwi4tzicraamabilis.com
 kr.falundata.org
 kromodonod.com
@@ -3616,6 +3618,8 @@ optimizesrv.com
 optkit.com
 optnx.com
 oqfqtynutj.com
+orangeip.tv
+oranustv.com
 oretibole.it.com
 oretibole.xyz
 org-secured.com
@@ -3623,6 +3627,7 @@ organicmajor.com
 oribi.io
 origin-analytics-prod.production.braintree-api.com
 origlnaldate.com
+orngstream.com
 orquideassp.com
 ortrun-adi.com
 orwoot.xyz
@@ -5269,6 +5274,7 @@ tunviralbionic.com
 turbopreise.de
 turmoilragcrutch.com
 tv-premium.fr
+tvaxa.com
 tvcodex.com
 tvfun4life.com
 tvfun4life.net
@@ -5276,6 +5282,7 @@ tvnado.com
 tvpikoma.com
 tvrill.com
 tvsmarter.site
+tvworldwide.shop
 twentydowrylocate.com
 twfhdr.clickajobs.com
 twik.io
@@ -5374,6 +5381,7 @@ uptime.com
 uptimecdn.com
 upvotecrew.com
 uqz.alguiblkg.online
+uranusxtv.com
 urbanblog.shop
 urbangardenerclub.com
 url-cut.com
@@ -6053,3 +6061,4 @@ zuzz.tv
 zvetokr2hr8pcng09.com
 zybrdr.com
 zyminex.com
+zypertv.com
